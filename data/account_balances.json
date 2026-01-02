@@ -1,0 +1,4286 @@
+[
+  {
+    "ticker": "Cash",
+    "account": "Vanguard",
+    "date": "7/1/25",
+    "shares": 26277.6
+  },
+  {
+    "ticker": "Cash",
+    "account": "Vanguard",
+    "date": "6/1/25",
+    "shares": 26189.23
+  },
+  {
+    "ticker": "Cash",
+    "account": "Vanguard",
+    "date": "5/1/25",
+    "shares": 26095.73
+  },
+  {
+    "ticker": "Cash",
+    "account": "Vanguard",
+    "date": "4/1/25",
+    "shares": 26005.51
+  },
+  {
+    "ticker": "Cash",
+    "account": "Vanguard",
+    "date": "3/1/25",
+    "shares": 428826.86
+  },
+  {
+    "ticker": "Cash",
+    "account": "Vanguard",
+    "date": "2/1/25",
+    "shares": 427430.55
+  },
+  {
+    "ticker": "Cash",
+    "account": "Vanguard",
+    "date": "1/1/25",
+    "shares": 430832.75
+  },
+  {
+    "ticker": "Cash",
+    "account": "Vanguard",
+    "date": "7/1/24",
+    "shares": 228.65
+  },
+  {
+    "ticker": "Cash",
+    "account": "Vanguard",
+    "date": "6/1/24",
+    "shares": 227.66
+  },
+  {
+    "ticker": "Cash",
+    "account": "Vanguard",
+    "date": "5/1/24",
+    "shares": 226.65
+  },
+  {
+    "ticker": "Cash",
+    "account": "Vanguard",
+    "date": "4/1/24",
+    "shares": 86014.82
+  },
+  {
+    "ticker": "Cash",
+    "account": "Vanguard",
+    "date": "3/1/24",
+    "shares": 85631.39
+  },
+  {
+    "ticker": "Cash",
+    "account": "Vanguard",
+    "date": "2/1/24",
+    "shares": 85274.17
+  },
+  {
+    "ticker": "Cash",
+    "account": "Vanguard",
+    "date": "1/1/24",
+    "shares": 81967.83
+  },
+  {
+    "ticker": "VBIAX",
+    "account": "Vanguard",
+    "date": "7/1/25",
+    "shares": 455.068
+  },
+  {
+    "ticker": "VBIAX",
+    "account": "Vanguard",
+    "date": "6/1/25",
+    "shares": 452.623
+  },
+  {
+    "ticker": "VBIAX",
+    "account": "Vanguard",
+    "date": "5/1/25",
+    "shares": 452.623
+  },
+  {
+    "ticker": "VBIAX",
+    "account": "Vanguard",
+    "date": "4/1/25",
+    "shares": 452.623
+  },
+  {
+    "ticker": "VBIAX",
+    "account": "Vanguard",
+    "date": "3/1/25",
+    "shares": 443.79
+  },
+  {
+    "ticker": "VBIAX",
+    "account": "Vanguard",
+    "date": "2/1/25",
+    "shares": 443.79
+  },
+  {
+    "ticker": "VBIAX",
+    "account": "Vanguard",
+    "date": "1/1/25",
+    "shares": 443.79
+  },
+  {
+    "ticker": "VBIAX",
+    "account": "Vanguard",
+    "date": "12/1/24",
+    "shares": 429.762
+  },
+  {
+    "ticker": "VBIAX",
+    "account": "Vanguard",
+    "date": "11/1/24",
+    "shares": 429.762
+  },
+  {
+    "ticker": "VBIAX",
+    "account": "Vanguard",
+    "date": "10/1/24",
+    "shares": 429.762
+  },
+  {
+    "ticker": "VBIAX",
+    "account": "Vanguard",
+    "date": "9/1/24",
+    "shares": 427.524
+  },
+  {
+    "ticker": "VBIAX",
+    "account": "Vanguard",
+    "date": "8/1/24",
+    "shares": 427.524
+  },
+  {
+    "ticker": "VBIAX",
+    "account": "Vanguard",
+    "date": "7/1/24",
+    "shares": 427.524
+  },
+  {
+    "ticker": "VBIAX",
+    "account": "Vanguard",
+    "date": "6/1/24",
+    "shares": 425.187
+  },
+  {
+    "ticker": "VBIAX",
+    "account": "Vanguard",
+    "date": "5/1/24",
+    "shares": 425.187
+  },
+  {
+    "ticker": "VBIAX",
+    "account": "Vanguard",
+    "date": "4/1/24",
+    "shares": 425.187
+  },
+  {
+    "ticker": "VBIAX",
+    "account": "Vanguard",
+    "date": "3/1/24",
+    "shares": 421.152
+  },
+  {
+    "ticker": "VBIAX",
+    "account": "Vanguard",
+    "date": "2/1/24",
+    "shares": 421.152
+  },
+  {
+    "ticker": "VBIAX",
+    "account": "Vanguard",
+    "date": "1/1/24",
+    "shares": 421.152
+  },
+  {
+    "ticker": "VTSAX",
+    "account": "Vanguard",
+    "date": "7/1/25",
+    "shares": 360.932
+  },
+  {
+    "ticker": "VTSAX",
+    "account": "Vanguard",
+    "date": "6/1/25",
+    "shares": 359.86
+  },
+  {
+    "ticker": "VTSAX",
+    "account": "Vanguard",
+    "date": "5/1/25",
+    "shares": 359.86
+  },
+  {
+    "ticker": "VTSAX",
+    "account": "Vanguard",
+    "date": "4/1/25",
+    "shares": 359.86
+  },
+  {
+    "ticker": "VTSAX",
+    "account": "Vanguard",
+    "date": "3/1/25",
+    "shares": 358.604
+  },
+  {
+    "ticker": "VTSAX",
+    "account": "Vanguard",
+    "date": "2/1/25",
+    "shares": 358.604
+  },
+  {
+    "ticker": "VTSAX",
+    "account": "Vanguard",
+    "date": "1/1/25",
+    "shares": 358.604
+  },
+  {
+    "ticker": "VTSAX",
+    "account": "Vanguard",
+    "date": "12/1/24",
+    "shares": 357.468
+  },
+  {
+    "ticker": "VTSAX",
+    "account": "Vanguard",
+    "date": "11/1/24",
+    "shares": 357.468
+  },
+  {
+    "ticker": "VTSAX",
+    "account": "Vanguard",
+    "date": "10/1/24",
+    "shares": 357.468
+  },
+  {
+    "ticker": "VTSAX",
+    "account": "Vanguard",
+    "date": "9/1/24",
+    "shares": 356.376
+  },
+  {
+    "ticker": "VTSAX",
+    "account": "Vanguard",
+    "date": "8/1/24",
+    "shares": 356.376
+  },
+  {
+    "ticker": "VTSAX",
+    "account": "Vanguard",
+    "date": "7/1/24",
+    "shares": 356.376
+  },
+  {
+    "ticker": "VTSAX",
+    "account": "Vanguard",
+    "date": "6/1/24",
+    "shares": 355.122
+  },
+  {
+    "ticker": "VTSAX",
+    "account": "Vanguard",
+    "date": "5/1/24",
+    "shares": 355.122
+  },
+  {
+    "ticker": "VTSAX",
+    "account": "Vanguard",
+    "date": "4/1/24",
+    "shares": 355.122
+  },
+  {
+    "ticker": "VTSAX",
+    "account": "Vanguard",
+    "date": "3/1/24",
+    "shares": 353.884
+  },
+  {
+    "ticker": "VTSAX",
+    "account": "Vanguard",
+    "date": "2/1/24",
+    "shares": 353.884
+  },
+  {
+    "ticker": "VTSAX",
+    "account": "Vanguard",
+    "date": "1/1/24",
+    "shares": 353.884
+  },
+  {
+    "ticker": "MGK",
+    "account": "Vanguard",
+    "date": "7/1/25",
+    "shares": 334.745
+  },
+  {
+    "ticker": "MGK",
+    "account": "Vanguard",
+    "date": "6/1/25",
+    "shares": 334.745
+  },
+  {
+    "ticker": "MGK",
+    "account": "Vanguard",
+    "date": "5/1/25",
+    "shares": 334.745
+  },
+  {
+    "ticker": "MGK",
+    "account": "Vanguard",
+    "date": "4/1/25",
+    "shares": 334.745
+  },
+  {
+    "ticker": "MGK",
+    "account": "Vanguard",
+    "date": "3/1/25",
+    "shares": 334.37
+  },
+  {
+    "ticker": "MGK",
+    "account": "Vanguard",
+    "date": "2/1/25",
+    "shares": 334.37
+  },
+  {
+    "ticker": "MGK",
+    "account": "Vanguard",
+    "date": "1/1/25",
+    "shares": 334.37
+  },
+  {
+    "ticker": "MGK",
+    "account": "Vanguard",
+    "date": "12/1/24",
+    "shares": 333.909
+  },
+  {
+    "ticker": "MGK",
+    "account": "Vanguard",
+    "date": "11/1/24",
+    "shares": 333.909
+  },
+  {
+    "ticker": "MGK",
+    "account": "Vanguard",
+    "date": "10/1/24",
+    "shares": 333.909
+  },
+  {
+    "ticker": "MGK",
+    "account": "Vanguard",
+    "date": "9/1/24",
+    "shares": 333.519
+  },
+  {
+    "ticker": "MGK",
+    "account": "Vanguard",
+    "date": "8/1/24",
+    "shares": 333.519
+  },
+  {
+    "ticker": "MGK",
+    "account": "Vanguard",
+    "date": "7/1/24",
+    "shares": 333.519
+  },
+  {
+    "ticker": "MGK",
+    "account": "Vanguard",
+    "date": "6/1/24",
+    "shares": 333.192
+  },
+  {
+    "ticker": "MGK",
+    "account": "Vanguard",
+    "date": "5/1/24",
+    "shares": 333.192
+  },
+  {
+    "ticker": "MGK",
+    "account": "Vanguard",
+    "date": "4/1/24",
+    "shares": 333.192
+  },
+  {
+    "ticker": "MGK",
+    "account": "Vanguard",
+    "date": "3/1/24",
+    "shares": 332.845
+  },
+  {
+    "ticker": "MGK",
+    "account": "Vanguard",
+    "date": "2/1/24",
+    "shares": 332.845
+  },
+  {
+    "ticker": "MGK",
+    "account": "Vanguard",
+    "date": "1/1/24",
+    "shares": 332.845
+  },
+  {
+    "ticker": "VOO",
+    "account": "Vanguard",
+    "date": "7/1/25",
+    "shares": 456.089
+  },
+  {
+    "ticker": "VOO",
+    "account": "Vanguard",
+    "date": "6/1/25",
+    "shares": 456.089
+  },
+  {
+    "ticker": "VOO",
+    "account": "Vanguard",
+    "date": "5/1/25",
+    "shares": 456.089
+  },
+  {
+    "ticker": "VOO",
+    "account": "Vanguard",
+    "date": "4/1/25",
+    "shares": 456.089
+  },
+  {
+    "ticker": "VOO",
+    "account": "Vanguard",
+    "date": "3/1/25",
+    "shares": 454.461
+  },
+  {
+    "ticker": "VOO",
+    "account": "Vanguard",
+    "date": "2/1/25",
+    "shares": 454.461
+  },
+  {
+    "ticker": "VOO",
+    "account": "Vanguard",
+    "date": "1/1/25",
+    "shares": 454.461
+  },
+  {
+    "ticker": "VOO",
+    "account": "Vanguard",
+    "date": "12/1/24",
+    "shares": 453.033
+  },
+  {
+    "ticker": "VOO",
+    "account": "Vanguard",
+    "date": "11/1/24",
+    "shares": 453.033
+  },
+  {
+    "ticker": "VOO",
+    "account": "Vanguard",
+    "date": "10/1/24",
+    "shares": 453.033
+  },
+  {
+    "ticker": "VOO",
+    "account": "Vanguard",
+    "date": "9/1/24",
+    "shares": 451.616
+  },
+  {
+    "ticker": "VOO",
+    "account": "Vanguard",
+    "date": "8/1/24",
+    "shares": 451.616
+  },
+  {
+    "ticker": "VOO",
+    "account": "Vanguard",
+    "date": "7/1/24",
+    "shares": 450.013
+  },
+  {
+    "ticker": "VOO",
+    "account": "Vanguard",
+    "date": "6/1/24",
+    "shares": 450.013
+  },
+  {
+    "ticker": "VOO",
+    "account": "Vanguard",
+    "date": "5/1/24",
+    "shares": 450.013
+  },
+  {
+    "ticker": "VOO",
+    "account": "Vanguard",
+    "date": "4/1/24",
+    "shares": 450.013
+  },
+  {
+    "ticker": "VOO",
+    "account": "Vanguard",
+    "date": "3/1/24",
+    "shares": 448.566
+  },
+  {
+    "ticker": "VOO",
+    "account": "Vanguard",
+    "date": "2/1/24",
+    "shares": 448.566
+  },
+  {
+    "ticker": "VOO",
+    "account": "Vanguard",
+    "date": "1/1/24",
+    "shares": 448.566
+  },
+  {
+    "ticker": "VT",
+    "account": "Vanguard",
+    "date": "7/1/25",
+    "shares": 66.973
+  },
+  {
+    "ticker": "VT",
+    "account": "Vanguard",
+    "date": "6/1/25",
+    "shares": 66.659
+  },
+  {
+    "ticker": "VT",
+    "account": "Vanguard",
+    "date": "5/1/25",
+    "shares": 66.659
+  },
+  {
+    "ticker": "VT",
+    "account": "Vanguard",
+    "date": "4/1/25",
+    "shares": 66.659
+  },
+  {
+    "ticker": "VT",
+    "account": "Vanguard",
+    "date": "3/1/25",
+    "shares": 66.445
+  },
+  {
+    "ticker": "VT",
+    "account": "Vanguard",
+    "date": "2/1/25",
+    "shares": 66.445
+  },
+  {
+    "ticker": "VT",
+    "account": "Vanguard",
+    "date": "1/1/25",
+    "shares": 66.445
+  },
+  {
+    "ticker": "VT",
+    "account": "Vanguard",
+    "date": "12/1/24",
+    "shares": 65.96
+  },
+  {
+    "ticker": "VT",
+    "account": "Vanguard",
+    "date": "11/1/24",
+    "shares": 65.96
+  },
+  {
+    "ticker": "VT",
+    "account": "Vanguard",
+    "date": "10/1/24",
+    "shares": 65.96
+  },
+  {
+    "ticker": "VT",
+    "account": "Vanguard",
+    "date": "9/1/24",
+    "shares": 65.729
+  },
+  {
+    "ticker": "VT",
+    "account": "Vanguard",
+    "date": "8/1/24",
+    "shares": 65.729
+  },
+  {
+    "ticker": "VT",
+    "account": "Vanguard",
+    "date": "7/1/24",
+    "shares": 65.729
+  },
+  {
+    "ticker": "VT",
+    "account": "Vanguard",
+    "date": "6/1/24",
+    "shares": 65.393
+  },
+  {
+    "ticker": "VT",
+    "account": "Vanguard",
+    "date": "5/1/24",
+    "shares": 65.393
+  },
+  {
+    "ticker": "VT",
+    "account": "Vanguard",
+    "date": "4/1/24",
+    "shares": 65.393
+  },
+  {
+    "ticker": "VT",
+    "account": "Vanguard",
+    "date": "3/1/24",
+    "shares": 65.141
+  },
+  {
+    "ticker": "VT",
+    "account": "Vanguard",
+    "date": "2/1/24",
+    "shares": 65.141
+  },
+  {
+    "ticker": "VT",
+    "account": "Vanguard",
+    "date": "1/1/24",
+    "shares": 65.141
+  },
+  {
+    "ticker": "VTI",
+    "account": "Vanguard",
+    "date": "7/1/25",
+    "shares": 488.842
+  },
+  {
+    "ticker": "VTI",
+    "account": "Vanguard",
+    "date": "6/1/25",
+    "shares": 488.842
+  },
+  {
+    "ticker": "VTI",
+    "account": "Vanguard",
+    "date": "5/1/25",
+    "shares": 488.842
+  },
+  {
+    "ticker": "VTI",
+    "account": "Vanguard",
+    "date": "4/1/25",
+    "shares": 488.842
+  },
+  {
+    "ticker": "VTI",
+    "account": "Vanguard",
+    "date": "3/1/25",
+    "shares": 487.059
+  },
+  {
+    "ticker": "VTI",
+    "account": "Vanguard",
+    "date": "2/1/25",
+    "shares": 487.059
+  },
+  {
+    "ticker": "VTI",
+    "account": "Vanguard",
+    "date": "1/1/25",
+    "shares": 487.059
+  },
+  {
+    "ticker": "VTI",
+    "account": "Vanguard",
+    "date": "12/1/24",
+    "shares": 485.517
+  },
+  {
+    "ticker": "VTI",
+    "account": "Vanguard",
+    "date": "11/1/24",
+    "shares": 485.517
+  },
+  {
+    "ticker": "VTI",
+    "account": "Vanguard",
+    "date": "10/1/24",
+    "shares": 485.517
+  },
+  {
+    "ticker": "VTI",
+    "account": "Vanguard",
+    "date": "9/1/24",
+    "shares": 484.017
+  },
+  {
+    "ticker": "VTI",
+    "account": "Vanguard",
+    "date": "8/1/24",
+    "shares": 484.017
+  },
+  {
+    "ticker": "VTI",
+    "account": "Vanguard",
+    "date": "7/1/24",
+    "shares": 482.304
+  },
+  {
+    "ticker": "VTI",
+    "account": "Vanguard",
+    "date": "6/1/24",
+    "shares": 482.304
+  },
+  {
+    "ticker": "VTI",
+    "account": "Vanguard",
+    "date": "5/1/24",
+    "shares": 482.304
+  },
+  {
+    "ticker": "VTI",
+    "account": "Vanguard",
+    "date": "4/1/24",
+    "shares": 482.304
+  },
+  {
+    "ticker": "VTI",
+    "account": "Vanguard",
+    "date": "3/1/24",
+    "shares": 480.612
+  },
+  {
+    "ticker": "VTI",
+    "account": "Vanguard",
+    "date": "2/1/24",
+    "shares": 480.612
+  },
+  {
+    "ticker": "VTI",
+    "account": "Vanguard",
+    "date": "1/1/24",
+    "shares": 480.612
+  },
+  {
+    "ticker": "BMO",
+    "account": "Vanguard",
+    "date": "7/1/25",
+    "shares": 196.661
+  },
+  {
+    "ticker": "BMO",
+    "account": "Vanguard",
+    "date": "6/1/25",
+    "shares": 196.661
+  },
+  {
+    "ticker": "BMO",
+    "account": "Vanguard",
+    "date": "5/1/25",
+    "shares": 194.843
+  },
+  {
+    "ticker": "BMO",
+    "account": "Vanguard",
+    "date": "4/1/25",
+    "shares": 194.843
+  },
+  {
+    "ticker": "BMO",
+    "account": "Vanguard",
+    "date": "3/1/25",
+    "shares": 194.843
+  },
+  {
+    "ticker": "BMO",
+    "account": "Vanguard",
+    "date": "2/1/25",
+    "shares": 193.083
+  },
+  {
+    "ticker": "BMO",
+    "account": "Vanguard",
+    "date": "1/1/25",
+    "shares": 193.083
+  },
+  {
+    "ticker": "BMO",
+    "account": "Vanguard",
+    "date": "12/1/24",
+    "shares": 193.083
+  },
+  {
+    "ticker": "BMO",
+    "account": "Vanguard",
+    "date": "11/1/24",
+    "shares": 191.183
+  },
+  {
+    "ticker": "BMO",
+    "account": "Vanguard",
+    "date": "10/1/24",
+    "shares": 191.183
+  },
+  {
+    "ticker": "BMO",
+    "account": "Vanguard",
+    "date": "9/1/24",
+    "shares": 191.183
+  },
+  {
+    "ticker": "BMO",
+    "account": "Vanguard",
+    "date": "8/1/24",
+    "shares": 188.956
+  },
+  {
+    "ticker": "BMO",
+    "account": "Vanguard",
+    "date": "7/1/24",
+    "shares": 188.956
+  },
+  {
+    "ticker": "BMO",
+    "account": "Vanguard",
+    "date": "6/1/24",
+    "shares": 188.956
+  },
+  {
+    "ticker": "BMO",
+    "account": "Vanguard",
+    "date": "5/1/24",
+    "shares": 187.117
+  },
+  {
+    "ticker": "BMO",
+    "account": "Vanguard",
+    "date": "4/1/24",
+    "shares": 187.117
+  },
+  {
+    "ticker": "BMO",
+    "account": "Vanguard",
+    "date": "3/1/24",
+    "shares": 187.117
+  },
+  {
+    "ticker": "BMO",
+    "account": "Vanguard",
+    "date": "2/1/24",
+    "shares": 185.149
+  },
+  {
+    "ticker": "BMO",
+    "account": "Vanguard",
+    "date": "1/1/24",
+    "shares": 185.149
+  },
+  {
+    "ticker": "BRK-B",
+    "account": "Vanguard",
+    "date": "7/1/25",
+    "shares": 23.0
+  },
+  {
+    "ticker": "BRK-B",
+    "account": "Vanguard",
+    "date": "6/1/25",
+    "shares": 23.0
+  },
+  {
+    "ticker": "BRK-B",
+    "account": "Vanguard",
+    "date": "5/1/25",
+    "shares": 23.0
+  },
+  {
+    "ticker": "BRK-B",
+    "account": "Vanguard",
+    "date": "4/1/25",
+    "shares": 23.0
+  },
+  {
+    "ticker": "BRK-B",
+    "account": "Vanguard",
+    "date": "3/1/25",
+    "shares": 23.0
+  },
+  {
+    "ticker": "BRK-B",
+    "account": "Vanguard",
+    "date": "2/1/25",
+    "shares": 23.0
+  },
+  {
+    "ticker": "BRK-B",
+    "account": "Vanguard",
+    "date": "1/1/25",
+    "shares": 23.0
+  },
+  {
+    "ticker": "BRK-B",
+    "account": "Vanguard",
+    "date": "12/1/24",
+    "shares": 23.0
+  },
+  {
+    "ticker": "BRK-B",
+    "account": "Vanguard",
+    "date": "11/1/24",
+    "shares": 23.0
+  },
+  {
+    "ticker": "BRK-B",
+    "account": "Vanguard",
+    "date": "10/1/24",
+    "shares": 23.0
+  },
+  {
+    "ticker": "BRK-B",
+    "account": "Vanguard",
+    "date": "9/1/24",
+    "shares": 23.0
+  },
+  {
+    "ticker": "BRK-B",
+    "account": "Vanguard",
+    "date": "8/1/24",
+    "shares": 23.0
+  },
+  {
+    "ticker": "BRK-B",
+    "account": "Vanguard",
+    "date": "7/1/24",
+    "shares": 23.0
+  },
+  {
+    "ticker": "BRK-B",
+    "account": "Vanguard",
+    "date": "6/1/24",
+    "shares": 23.0
+  },
+  {
+    "ticker": "BRK-B",
+    "account": "Vanguard",
+    "date": "5/1/24",
+    "shares": 23.0
+  },
+  {
+    "ticker": "BRK-B",
+    "account": "Vanguard",
+    "date": "4/1/24",
+    "shares": 23.0
+  },
+  {
+    "ticker": "BRK-B",
+    "account": "Vanguard",
+    "date": "3/1/24",
+    "shares": 23.0
+  },
+  {
+    "ticker": "BRK-B",
+    "account": "Vanguard",
+    "date": "2/1/24",
+    "shares": 23.0
+  },
+  {
+    "ticker": "BRK-B",
+    "account": "Vanguard",
+    "date": "1/1/24",
+    "shares": 23.0
+  },
+  {
+    "ticker": "VAW",
+    "account": "Vanguard",
+    "date": "3/1/25",
+    "shares": 32.179
+  },
+  {
+    "ticker": "VAW",
+    "account": "Vanguard",
+    "date": "2/1/25",
+    "shares": 32.179
+  },
+  {
+    "ticker": "VAW",
+    "account": "Vanguard",
+    "date": "1/1/25",
+    "shares": 32.179
+  },
+  {
+    "ticker": "VAW",
+    "account": "Vanguard",
+    "date": "12/1/24",
+    "shares": 32.033
+  },
+  {
+    "ticker": "VAW",
+    "account": "Vanguard",
+    "date": "11/1/24",
+    "shares": 32.033
+  },
+  {
+    "ticker": "VAW",
+    "account": "Vanguard",
+    "date": "10/1/24",
+    "shares": 32.033
+  },
+  {
+    "ticker": "VAW",
+    "account": "Vanguard",
+    "date": "9/1/24",
+    "shares": 31.907
+  },
+  {
+    "ticker": "VAW",
+    "account": "Vanguard",
+    "date": "8/1/24",
+    "shares": 31.907
+  },
+  {
+    "ticker": "VAW",
+    "account": "Vanguard",
+    "date": "7/1/24",
+    "shares": 31.77
+  },
+  {
+    "ticker": "VAW",
+    "account": "Vanguard",
+    "date": "6/1/24",
+    "shares": 31.77
+  },
+  {
+    "ticker": "VAW",
+    "account": "Vanguard",
+    "date": "5/1/24",
+    "shares": 31.77
+  },
+  {
+    "ticker": "VAW",
+    "account": "Vanguard",
+    "date": "4/1/24",
+    "shares": 31.77
+  },
+  {
+    "ticker": "VAW",
+    "account": "Vanguard",
+    "date": "3/1/24",
+    "shares": 31.663
+  },
+  {
+    "ticker": "VAW",
+    "account": "Vanguard",
+    "date": "2/1/24",
+    "shares": 31.663
+  },
+  {
+    "ticker": "VAW",
+    "account": "Vanguard",
+    "date": "1/1/24",
+    "shares": 31.663
+  },
+  {
+    "ticker": "VFH",
+    "account": "Vanguard",
+    "date": "3/1/25",
+    "shares": 64.258
+  },
+  {
+    "ticker": "VFH",
+    "account": "Vanguard",
+    "date": "2/1/25",
+    "shares": 64.258
+  },
+  {
+    "ticker": "VFH",
+    "account": "Vanguard",
+    "date": "1/1/25",
+    "shares": 64.258
+  },
+  {
+    "ticker": "VFH",
+    "account": "Vanguard",
+    "date": "12/1/24",
+    "shares": 63.897
+  },
+  {
+    "ticker": "VFH",
+    "account": "Vanguard",
+    "date": "11/1/24",
+    "shares": 63.897
+  },
+  {
+    "ticker": "VFH",
+    "account": "Vanguard",
+    "date": "10/1/24",
+    "shares": 63.897
+  },
+  {
+    "ticker": "VFH",
+    "account": "Vanguard",
+    "date": "9/1/24",
+    "shares": 63.577
+  },
+  {
+    "ticker": "VFH",
+    "account": "Vanguard",
+    "date": "8/1/24",
+    "shares": 63.577
+  },
+  {
+    "ticker": "VFH",
+    "account": "Vanguard",
+    "date": "7/1/24",
+    "shares": 63.285
+  },
+  {
+    "ticker": "VFH",
+    "account": "Vanguard",
+    "date": "6/1/24",
+    "shares": 63.285
+  },
+  {
+    "ticker": "VFH",
+    "account": "Vanguard",
+    "date": "5/1/24",
+    "shares": 63.285
+  },
+  {
+    "ticker": "VFH",
+    "account": "Vanguard",
+    "date": "4/1/24",
+    "shares": 63.285
+  },
+  {
+    "ticker": "VFH",
+    "account": "Vanguard",
+    "date": "3/1/24",
+    "shares": 63.036
+  },
+  {
+    "ticker": "VFH",
+    "account": "Vanguard",
+    "date": "2/1/24",
+    "shares": 63.036
+  },
+  {
+    "ticker": "VFH",
+    "account": "Vanguard",
+    "date": "1/1/24",
+    "shares": 63.036
+  },
+  {
+    "ticker": "AMD",
+    "account": "Vanguard",
+    "date": "3/1/25",
+    "shares": 85.0
+  },
+  {
+    "ticker": "AMD",
+    "account": "Vanguard",
+    "date": "2/1/25",
+    "shares": 85.0
+  },
+  {
+    "ticker": "AMD",
+    "account": "Vanguard",
+    "date": "1/1/25",
+    "shares": 85.0
+  },
+  {
+    "ticker": "AMD",
+    "account": "Vanguard",
+    "date": "12/1/24",
+    "shares": 85.0
+  },
+  {
+    "ticker": "AMD",
+    "account": "Vanguard",
+    "date": "11/1/24",
+    "shares": 85.0
+  },
+  {
+    "ticker": "AMD",
+    "account": "Vanguard",
+    "date": "10/1/24",
+    "shares": 85.0
+  },
+  {
+    "ticker": "AMD",
+    "account": "Vanguard",
+    "date": "9/1/24",
+    "shares": 85.0
+  },
+  {
+    "ticker": "AMD",
+    "account": "Vanguard",
+    "date": "8/1/24",
+    "shares": 85.0
+  },
+  {
+    "ticker": "AMD",
+    "account": "Vanguard",
+    "date": "7/1/24",
+    "shares": 85.0
+  },
+  {
+    "ticker": "AMD",
+    "account": "Vanguard",
+    "date": "6/1/24",
+    "shares": 85.0
+  },
+  {
+    "ticker": "AMD",
+    "account": "Vanguard",
+    "date": "5/1/24",
+    "shares": 85.0
+  },
+  {
+    "ticker": "AMD",
+    "account": "Vanguard",
+    "date": "4/1/24",
+    "shares": 85.0
+  },
+  {
+    "ticker": "AMD",
+    "account": "Vanguard",
+    "date": "3/1/24",
+    "shares": 85.0
+  },
+  {
+    "ticker": "AMD",
+    "account": "Vanguard",
+    "date": "2/1/24",
+    "shares": 85.0
+  },
+  {
+    "ticker": "AMD",
+    "account": "Vanguard",
+    "date": "1/1/24",
+    "shares": 85.0
+  },
+  {
+    "ticker": "CRVS",
+    "account": "Vanguard",
+    "date": "3/1/25",
+    "shares": 830.0
+  },
+  {
+    "ticker": "CRVS",
+    "account": "Vanguard",
+    "date": "2/1/25",
+    "shares": 830.0
+  },
+  {
+    "ticker": "BNDX",
+    "account": "Vanguard",
+    "date": "7/1/24",
+    "shares": 96.416
+  },
+  {
+    "ticker": "BNDX",
+    "account": "Vanguard",
+    "date": "6/1/24",
+    "shares": 96.226
+  },
+  {
+    "ticker": "BNDX",
+    "account": "Vanguard",
+    "date": "5/1/24",
+    "shares": 96.05
+  },
+  {
+    "ticker": "BNDX",
+    "account": "Vanguard",
+    "date": "4/1/24",
+    "shares": 95.872
+  },
+  {
+    "ticker": "BNDX",
+    "account": "Vanguard",
+    "date": "3/1/24",
+    "shares": 95.706
+  },
+  {
+    "ticker": "BNDX",
+    "account": "Vanguard",
+    "date": "2/1/24",
+    "shares": 95.537
+  },
+  {
+    "ticker": "BNDX",
+    "account": "Vanguard",
+    "date": "1/1/24",
+    "shares": 95.537
+  },
+  {
+    "ticker": "VEA",
+    "account": "Vanguard",
+    "date": "7/1/24",
+    "shares": 229.641
+  },
+  {
+    "ticker": "VEA",
+    "account": "Vanguard",
+    "date": "6/1/24",
+    "shares": 227.521
+  },
+  {
+    "ticker": "VEA",
+    "account": "Vanguard",
+    "date": "5/1/24",
+    "shares": 227.521
+  },
+  {
+    "ticker": "VEA",
+    "account": "Vanguard",
+    "date": "4/1/24",
+    "shares": 227.521
+  },
+  {
+    "ticker": "VEA",
+    "account": "Vanguard",
+    "date": "3/1/24",
+    "shares": 226.214
+  },
+  {
+    "ticker": "VEA",
+    "account": "Vanguard",
+    "date": "2/1/24",
+    "shares": 226.214
+  },
+  {
+    "ticker": "VEA",
+    "account": "Vanguard",
+    "date": "1/1/24",
+    "shares": 226.214
+  },
+  {
+    "ticker": "VEU",
+    "account": "Vanguard",
+    "date": "7/1/24",
+    "shares": 183.663
+  },
+  {
+    "ticker": "VEU",
+    "account": "Vanguard",
+    "date": "6/1/24",
+    "shares": 182.239
+  },
+  {
+    "ticker": "VEU",
+    "account": "Vanguard",
+    "date": "5/1/24",
+    "shares": 182.239
+  },
+  {
+    "ticker": "VEU",
+    "account": "Vanguard",
+    "date": "4/1/24",
+    "shares": 182.239
+  },
+  {
+    "ticker": "VEU",
+    "account": "Vanguard",
+    "date": "3/1/24",
+    "shares": 181.565
+  },
+  {
+    "ticker": "VEU",
+    "account": "Vanguard",
+    "date": "2/1/24",
+    "shares": 181.565
+  },
+  {
+    "ticker": "VEU",
+    "account": "Vanguard",
+    "date": "1/1/24",
+    "shares": 181.565
+  },
+  {
+    "ticker": "BLV",
+    "account": "Vanguard",
+    "date": "4/1/24",
+    "shares": 294.148
+  },
+  {
+    "ticker": "BLV",
+    "account": "Vanguard",
+    "date": "3/1/24",
+    "shares": 293.151
+  },
+  {
+    "ticker": "BLV",
+    "account": "Vanguard",
+    "date": "2/1/24",
+    "shares": 292.027
+  },
+  {
+    "ticker": "BLV",
+    "account": "Vanguard",
+    "date": "1/1/24",
+    "shares": 292.027
+  },
+  {
+    "ticker": "Cash",
+    "account": "Fidelity - Individual",
+    "date": "7/1/25",
+    "shares": 8632.26
+  },
+  {
+    "ticker": "Cash",
+    "account": "Fidelity - Individual",
+    "date": "6/1/25",
+    "shares": 8632.26
+  },
+  {
+    "ticker": "Cash",
+    "account": "Fidelity - Individual",
+    "date": "5/1/25",
+    "shares": 8632.26
+  },
+  {
+    "ticker": "Cash",
+    "account": "Fidelity - Individual",
+    "date": "4/1/25",
+    "shares": 8610.32
+  },
+  {
+    "ticker": "Cash",
+    "account": "Fidelity - Individual",
+    "date": "3/1/25",
+    "shares": 8588.48
+  },
+  {
+    "ticker": "Cash",
+    "account": "Fidelity - Individual",
+    "date": "2/1/25",
+    "shares": 8588.48
+  },
+  {
+    "ticker": "Cash",
+    "account": "Fidelity - Individual",
+    "date": "1/1/25",
+    "shares": 628.54
+  },
+  {
+    "ticker": "Cash",
+    "account": "Fidelity - Individual",
+    "date": "12/1/24",
+    "shares": 626.85
+  },
+  {
+    "ticker": "Cash",
+    "account": "Fidelity - Individual",
+    "date": "11/1/24",
+    "shares": 626.85
+  },
+  {
+    "ticker": "Cash",
+    "account": "Fidelity - Individual",
+    "date": "10/1/24",
+    "shares": 625.16
+  },
+  {
+    "ticker": "Cash",
+    "account": "Fidelity - Individual",
+    "date": "9/1/24",
+    "shares": 30620.46
+  },
+  {
+    "ticker": "Cash",
+    "account": "Fidelity - Individual",
+    "date": "8/1/24",
+    "shares": 30013.22
+  },
+  {
+    "ticker": "Cash",
+    "account": "Fidelity - Individual",
+    "date": "7/1/24",
+    "shares": 30006.6
+  },
+  {
+    "ticker": "Cash",
+    "account": "Fidelity - Individual",
+    "date": "6/1/24",
+    "shares": 30000.0
+  },
+  {
+    "ticker": "Cash",
+    "account": "Fidelity - Individual",
+    "date": "5/1/24",
+    "shares": 30000.0
+  },
+  {
+    "ticker": "Cash",
+    "account": "Fidelity - Individual",
+    "date": "4/1/24",
+    "shares": 45510.4
+  },
+  {
+    "ticker": "Cash",
+    "account": "Fidelity - Individual",
+    "date": "3/1/24",
+    "shares": 157713.28
+  },
+  {
+    "ticker": "Cash",
+    "account": "Fidelity - Individual",
+    "date": "2/1/24",
+    "shares": 157214.61
+  },
+  {
+    "ticker": "Cash",
+    "account": "Fidelity - Individual",
+    "date": "1/1/24",
+    "shares": 156704.6
+  },
+  {
+    "ticker": "NVDA",
+    "account": "Fidelity - Individual",
+    "date": "1/1/25",
+    "shares": 69.925
+  },
+  {
+    "ticker": "VOO",
+    "account": "Fidelity - Individual",
+    "date": "6/1/24",
+    "shares": 105.0
+  },
+  {
+    "ticker": "VOO",
+    "account": "Fidelity - Individual",
+    "date": "5/1/24",
+    "shares": 105.0
+  },
+  {
+    "ticker": "VOO",
+    "account": "Fidelity - Individual",
+    "date": "4/1/24",
+    "shares": 105.0
+  },
+  {
+    "ticker": "FDEM",
+    "account": "Fidelity - Individual",
+    "date": "6/1/24",
+    "shares": 500.0
+  },
+  {
+    "ticker": "FDEM",
+    "account": "Fidelity - Individual",
+    "date": "5/1/24",
+    "shares": 500.0
+  },
+  {
+    "ticker": "FDEM",
+    "account": "Fidelity - Individual",
+    "date": "4/1/24",
+    "shares": 500.0
+  },
+  {
+    "ticker": "Fund: Vang Inst 500 ",
+    "account": "Fidelity - Amazon",
+    "date": "3/1/25",
+    "shares": 61553.02
+  },
+  {
+    "ticker": "Fund: Vang Inst 500 ",
+    "account": "Fidelity - Amazon",
+    "date": "2/1/25",
+    "shares": 65228.75
+  },
+  {
+    "ticker": "Fund: Vang Inst 500 ",
+    "account": "Fidelity - Amazon",
+    "date": "1/1/25",
+    "shares": 66093.63
+  },
+  {
+    "ticker": "Fund: Vang Inst 500 ",
+    "account": "Fidelity - Amazon",
+    "date": "12/1/24",
+    "shares": 64303.59
+  },
+  {
+    "ticker": "Fund: Vang Inst 500 ",
+    "account": "Fidelity - Amazon",
+    "date": "11/1/24",
+    "shares": 65876.37
+  },
+  {
+    "ticker": "Fund: Vang Inst 500 ",
+    "account": "Fidelity - Amazon",
+    "date": "10/1/24",
+    "shares": 62223.72
+  },
+  {
+    "ticker": "Fund: Vang Inst 500 ",
+    "account": "Fidelity - Amazon",
+    "date": "9/1/24",
+    "shares": 62794.3
+  },
+  {
+    "ticker": "Fund: Vang Inst 500 ",
+    "account": "Fidelity - Amazon",
+    "date": "8/1/24",
+    "shares": 61481.48
+  },
+  {
+    "ticker": "Fund: Vang Inst 500 ",
+    "account": "Fidelity - Amazon",
+    "date": "7/1/24",
+    "shares": 60027.07
+  },
+  {
+    "ticker": "Fund: Vang Inst 500 ",
+    "account": "Fidelity - Amazon",
+    "date": "6/1/24",
+    "shares": 59307.92
+  },
+  {
+    "ticker": "Fund: Vang Inst 500 ",
+    "account": "Fidelity - Amazon",
+    "date": "5/1/24",
+    "shares": 57253.67
+  },
+  {
+    "ticker": "Fund: Vang Inst 500 ",
+    "account": "Fidelity - Amazon",
+    "date": "4/1/24",
+    "shares": 54550.72
+  },
+  {
+    "ticker": "Fund: Vang Inst 500 ",
+    "account": "Fidelity - Amazon",
+    "date": "3/1/24",
+    "shares": 56874.23
+  },
+  {
+    "ticker": "Fund: Vang Inst 500 ",
+    "account": "Fidelity - Amazon",
+    "date": "2/1/24",
+    "shares": 55103.11
+  },
+  {
+    "ticker": "Fund: Vang Inst 500 ",
+    "account": "Fidelity - Amazon",
+    "date": "1/1/24",
+    "shares": 52307.4
+  },
+  {
+    "ticker": "Fund: Vang Ret Svng",
+    "account": "Fidelity - Amazon",
+    "date": "3/1/25",
+    "shares": 21731.56
+  },
+  {
+    "ticker": "Fund: Vang Ret Svng",
+    "account": "Fidelity - Amazon",
+    "date": "2/1/25",
+    "shares": 21686.81
+  },
+  {
+    "ticker": "Fund: Vang Ret Svng",
+    "account": "Fidelity - Amazon",
+    "date": "1/1/25",
+    "shares": 21644.27
+  },
+  {
+    "ticker": "Fund: Vang Ret Svng",
+    "account": "Fidelity - Amazon",
+    "date": "12/1/24",
+    "shares": 21596.99
+  },
+  {
+    "ticker": "Fund: Vang Ret Svng",
+    "account": "Fidelity - Amazon",
+    "date": "11/1/24",
+    "shares": 21550.96
+  },
+  {
+    "ticker": "Fund: Vang Ret Svng",
+    "account": "Fidelity - Amazon",
+    "date": "10/1/24",
+    "shares": 21504.95
+  },
+  {
+    "ticker": "Fund: Vang Ret Svng",
+    "account": "Fidelity - Amazon",
+    "date": "9/1/24",
+    "shares": 21459.0
+  },
+  {
+    "ticker": "Fund: Vang Ret Svng",
+    "account": "Fidelity - Amazon",
+    "date": "8/1/24",
+    "shares": 21417.2
+  },
+  {
+    "ticker": "Fund: Vang Ret Svng",
+    "account": "Fidelity - Amazon",
+    "date": "7/1/24",
+    "shares": 21367.62
+  },
+  {
+    "ticker": "Fund: Vang Ret Svng",
+    "account": "Fidelity - Amazon",
+    "date": "6/1/24",
+    "shares": 21322.07
+  },
+  {
+    "ticker": "Fund: Vang Ret Svng",
+    "account": "Fidelity - Amazon",
+    "date": "5/1/24",
+    "shares": 21280.38
+  },
+  {
+    "ticker": "Fund: Vang Ret Svng",
+    "account": "Fidelity - Amazon",
+    "date": "4/1/24",
+    "shares": 21231.09
+  },
+  {
+    "ticker": "Fund: Vang Ret Svng",
+    "account": "Fidelity - Amazon",
+    "date": "3/1/24",
+    "shares": 21186.56
+  },
+  {
+    "ticker": "Fund: Vang Ret Svng",
+    "account": "Fidelity - Amazon",
+    "date": "2/1/24",
+    "shares": 21139.98
+  },
+  {
+    "ticker": "Fund: Vang Ret Svng",
+    "account": "Fidelity - Amazon",
+    "date": "1/1/24",
+    "shares": 21097.08
+  },
+  {
+    "ticker": "Fund: VG IS TOT",
+    "account": "Fidelity - Amazon",
+    "date": "3/1/25",
+    "shares": 30024.12
+  },
+  {
+    "ticker": "Fund: VG IS TOT",
+    "account": "Fidelity - Amazon",
+    "date": "2/1/25",
+    "shares": 30018.67
+  },
+  {
+    "ticker": "Fund: VG IS TOT",
+    "account": "Fidelity - Amazon",
+    "date": "1/1/25",
+    "shares": 29403.1
+  },
+  {
+    "ticker": "Fund: VG IS TOT",
+    "account": "Fidelity - Amazon",
+    "date": "12/1/24",
+    "shares": 29215.91
+  },
+  {
+    "ticker": "Fund: VG IS TOT",
+    "account": "Fidelity - Amazon",
+    "date": "11/1/24",
+    "shares": 29730.71
+  },
+  {
+    "ticker": "Fund: VG IS TOT",
+    "account": "Fidelity - Amazon",
+    "date": "10/1/24",
+    "shares": 29398.41
+  },
+  {
+    "ticker": "Fund: VG IS TOT",
+    "account": "Fidelity - Amazon",
+    "date": "9/1/24",
+    "shares": 30129.17
+  },
+  {
+    "ticker": "Fund: VG IS TOT",
+    "account": "Fidelity - Amazon",
+    "date": "8/1/24",
+    "shares": 29734.2
+  },
+  {
+    "ticker": "Fund: VG IS TOT",
+    "account": "Fidelity - Amazon",
+    "date": "7/1/24",
+    "shares": 29341.96
+  },
+  {
+    "ticker": "Fund: VG IS TOT",
+    "account": "Fidelity - Amazon",
+    "date": "6/1/24",
+    "shares": 28669.89
+  },
+  {
+    "ticker": "Fund: VG IS TOT",
+    "account": "Fidelity - Amazon",
+    "date": "5/1/24",
+    "shares": 28408.39
+  },
+  {
+    "ticker": "Fund: VG IS TOT",
+    "account": "Fidelity - Amazon",
+    "date": "4/1/24",
+    "shares": 27928.97
+  },
+  {
+    "ticker": "Fund: VG IS TOT",
+    "account": "Fidelity - Amazon",
+    "date": "3/1/24",
+    "shares": 28618.87
+  },
+  {
+    "ticker": "Fund: VG IS TOT",
+    "account": "Fidelity - Amazon",
+    "date": "2/1/24",
+    "shares": 28390.05
+  },
+  {
+    "ticker": "Fund: VG IS TOT",
+    "account": "Fidelity - Amazon",
+    "date": "1/1/24",
+    "shares": 28785.04
+  },
+  {
+    "ticker": "Fund: Vanguard 2050",
+    "account": "Fidelity - Amazon",
+    "date": "3/1/25",
+    "shares": 17430.26
+  },
+  {
+    "ticker": "Fund: Vanguard 2050",
+    "account": "Fidelity - Amazon",
+    "date": "2/1/25",
+    "shares": 17991.07
+  },
+  {
+    "ticker": "Fund: Vanguard 2050",
+    "account": "Fidelity - Amazon",
+    "date": "1/1/25",
+    "shares": 18030.74
+  },
+  {
+    "ticker": "Fund: Vanguard 2050",
+    "account": "Fidelity - Amazon",
+    "date": "12/1/24",
+    "shares": 17522.29
+  },
+  {
+    "ticker": "Fund: Vanguard 2050",
+    "account": "Fidelity - Amazon",
+    "date": "11/1/24",
+    "shares": 18009.24
+  },
+  {
+    "ticker": "Fund: Vanguard 2050",
+    "account": "Fidelity - Amazon",
+    "date": "10/1/24",
+    "shares": 17375.93
+  },
+  {
+    "ticker": "Fund: Vanguard 2050",
+    "account": "Fidelity - Amazon",
+    "date": "9/1/24",
+    "shares": 17782.7
+  },
+  {
+    "ticker": "Fund: Vanguard 2050",
+    "account": "Fidelity - Amazon",
+    "date": "8/1/24",
+    "shares": 17405.16
+  },
+  {
+    "ticker": "Fund: Vanguard 2050",
+    "account": "Fidelity - Amazon",
+    "date": "7/1/24",
+    "shares": 17031.72
+  },
+  {
+    "ticker": "Fund: Vanguard 2050",
+    "account": "Fidelity - Amazon",
+    "date": "6/1/24",
+    "shares": 16665.61
+  },
+  {
+    "ticker": "Fund: Vanguard 2050",
+    "account": "Fidelity - Amazon",
+    "date": "5/1/24",
+    "shares": 16424.86
+  },
+  {
+    "ticker": "Fund: Vanguard 2050",
+    "account": "Fidelity - Amazon",
+    "date": "4/1/24",
+    "shares": 15772.35
+  },
+  {
+    "ticker": "Fund: Vanguard 2050",
+    "account": "Fidelity - Amazon",
+    "date": "3/1/24",
+    "shares": 16329.58
+  },
+  {
+    "ticker": "Fund: Vanguard 2050",
+    "account": "Fidelity - Amazon",
+    "date": "2/1/24",
+    "shares": 15864.46
+  },
+  {
+    "ticker": "Fund: Vanguard 2050",
+    "account": "Fidelity - Amazon",
+    "date": "1/1/24",
+    "shares": 15266.66
+  },
+  {
+    "ticker": "Fund: Vanguard 2060",
+    "account": "Fidelity - Amazon",
+    "date": "3/1/25",
+    "shares": 32313.52
+  },
+  {
+    "ticker": "Fund: Vanguard 2060",
+    "account": "Fidelity - Amazon",
+    "date": "2/1/25",
+    "shares": 33345.26
+  },
+  {
+    "ticker": "Fund: Vanguard 2060",
+    "account": "Fidelity - Amazon",
+    "date": "1/1/25",
+    "shares": 33418.77
+  },
+  {
+    "ticker": "Fund: Vanguard 2060",
+    "account": "Fidelity - Amazon",
+    "date": "12/1/24",
+    "shares": 32476.53
+  },
+  {
+    "ticker": "Fund: Vanguard 2060",
+    "account": "Fidelity - Amazon",
+    "date": "11/1/24",
+    "shares": 33379.0
+  },
+  {
+    "ticker": "Fund: Vanguard 2060",
+    "account": "Fidelity - Amazon",
+    "date": "10/1/24",
+    "shares": 32212.88
+  },
+  {
+    "ticker": "Fund: Vanguard 2060",
+    "account": "Fidelity - Amazon",
+    "date": "9/1/24",
+    "shares": 32974.31
+  },
+  {
+    "ticker": "Fund: Vanguard 2060",
+    "account": "Fidelity - Amazon",
+    "date": "8/1/24",
+    "shares": 32274.61
+  },
+  {
+    "ticker": "Fund: Vanguard 2060",
+    "account": "Fidelity - Amazon",
+    "date": "7/1/24",
+    "shares": 31582.52
+  },
+  {
+    "ticker": "Fund: Vanguard 2060",
+    "account": "Fidelity - Amazon",
+    "date": "6/1/24",
+    "shares": 30898.9
+  },
+  {
+    "ticker": "Fund: Vanguard 2060",
+    "account": "Fidelity - Amazon",
+    "date": "5/1/24",
+    "shares": 30450.17
+  },
+  {
+    "ticker": "Fund: Vanguard 2060",
+    "account": "Fidelity - Amazon",
+    "date": "4/1/24",
+    "shares": 29240.88
+  },
+  {
+    "ticker": "Fund: Vanguard 2060",
+    "account": "Fidelity - Amazon",
+    "date": "3/1/24",
+    "shares": 30273.54
+  },
+  {
+    "ticker": "Fund: Vanguard 2060",
+    "account": "Fidelity - Amazon",
+    "date": "2/1/24",
+    "shares": 29406.48
+  },
+  {
+    "ticker": "Fund: Vanguard 2060",
+    "account": "Fidelity - Amazon",
+    "date": "1/1/24",
+    "shares": 28306.18
+  },
+  {
+    "ticker": "AMZN",
+    "account": "Fidelity - Amazon",
+    "date": "3/1/25",
+    "shares": 214.233
+  },
+  {
+    "ticker": "AMZN",
+    "account": "Fidelity - Amazon",
+    "date": "2/1/25",
+    "shares": 214.233
+  },
+  {
+    "ticker": "AMZN",
+    "account": "Fidelity - Amazon",
+    "date": "1/1/25",
+    "shares": 214.233
+  },
+  {
+    "ticker": "AMZN",
+    "account": "Fidelity - Amazon",
+    "date": "12/1/24",
+    "shares": 214.238
+  },
+  {
+    "ticker": "AMZN",
+    "account": "Fidelity - Amazon",
+    "date": "11/1/24",
+    "shares": 214.238
+  },
+  {
+    "ticker": "AMZN",
+    "account": "Fidelity - Amazon",
+    "date": "10/1/24",
+    "shares": 214.238
+  },
+  {
+    "ticker": "AMZN",
+    "account": "Fidelity - Amazon",
+    "date": "9/1/24",
+    "shares": 214.244
+  },
+  {
+    "ticker": "AMZN",
+    "account": "Fidelity - Amazon",
+    "date": "8/1/24",
+    "shares": 214.244
+  },
+  {
+    "ticker": "AMZN",
+    "account": "Fidelity - Amazon",
+    "date": "7/1/24",
+    "shares": 214.244
+  },
+  {
+    "ticker": "AMZN",
+    "account": "Fidelity - Amazon",
+    "date": "6/1/24",
+    "shares": 214.25
+  },
+  {
+    "ticker": "AMZN",
+    "account": "Fidelity - Amazon",
+    "date": "5/1/24",
+    "shares": 214.25
+  },
+  {
+    "ticker": "AMZN",
+    "account": "Fidelity - Amazon",
+    "date": "4/1/24",
+    "shares": 214.25
+  },
+  {
+    "ticker": "AMZN",
+    "account": "Fidelity - Amazon",
+    "date": "3/1/24",
+    "shares": 214.256
+  },
+  {
+    "ticker": "AMZN",
+    "account": "Fidelity - Amazon",
+    "date": "2/1/24",
+    "shares": 214.256
+  },
+  {
+    "ticker": "AMZN",
+    "account": "Fidelity - Amazon",
+    "date": "1/1/24",
+    "shares": 214.256
+  },
+  {
+    "ticker": "Cash",
+    "account": "Fidelity - Amazon",
+    "date": "7/1/25",
+    "shares": 660.84
+  },
+  {
+    "ticker": "Cash",
+    "account": "Fidelity - Amazon",
+    "date": "6/1/25",
+    "shares": 660.84
+  },
+  {
+    "ticker": "Cash",
+    "account": "Fidelity - Amazon",
+    "date": "5/1/25",
+    "shares": 660.84
+  },
+  {
+    "ticker": "Cash",
+    "account": "Fidelity - Amazon",
+    "date": "4/1/25",
+    "shares": 203463.28
+  },
+  {
+    "ticker": "VPU",
+    "account": "Fidelity - Amazon",
+    "date": "7/1/25",
+    "shares": 58.561
+  },
+  {
+    "ticker": "VPU",
+    "account": "Fidelity - Amazon",
+    "date": "6/1/25",
+    "shares": 58.561
+  },
+  {
+    "ticker": "VPU",
+    "account": "Fidelity - Amazon",
+    "date": "5/1/25",
+    "shares": 58.561
+  },
+  {
+    "ticker": "VGK",
+    "account": "Fidelity - Amazon",
+    "date": "7/1/25",
+    "shares": 287.388
+  },
+  {
+    "ticker": "VGK",
+    "account": "Fidelity - Amazon",
+    "date": "6/1/25",
+    "shares": 287.388
+  },
+  {
+    "ticker": "VGK",
+    "account": "Fidelity - Amazon",
+    "date": "5/1/25",
+    "shares": 287.388
+  },
+  {
+    "ticker": "FSKAX",
+    "account": "Fidelity - Amazon",
+    "date": "7/1/25",
+    "shares": 293.6
+  },
+  {
+    "ticker": "FSKAX",
+    "account": "Fidelity - Amazon",
+    "date": "6/1/25",
+    "shares": 293.6
+  },
+  {
+    "ticker": "FSKAX",
+    "account": "Fidelity - Amazon",
+    "date": "5/1/25",
+    "shares": 293.6
+  },
+  {
+    "ticker": "FDRV",
+    "account": "Fidelity - Amazon",
+    "date": "7/1/25",
+    "shares": 2031.144
+  },
+  {
+    "ticker": "FDRV",
+    "account": "Fidelity - Amazon",
+    "date": "6/1/25",
+    "shares": 2031.144
+  },
+  {
+    "ticker": "FDRV",
+    "account": "Fidelity - Amazon",
+    "date": "5/1/25",
+    "shares": 2031.144
+  },
+  {
+    "ticker": "FDEV",
+    "account": "Fidelity - Amazon",
+    "date": "7/1/25",
+    "shares": 1600.0
+  },
+  {
+    "ticker": "FDEV",
+    "account": "Fidelity - Amazon",
+    "date": "6/1/25",
+    "shares": 1600.0
+  },
+  {
+    "ticker": "FDEV",
+    "account": "Fidelity - Amazon",
+    "date": "5/1/25",
+    "shares": 1600.0
+  },
+  {
+    "ticker": "FDEM",
+    "account": "Fidelity - Amazon",
+    "date": "7/1/25",
+    "shares": 749.641
+  },
+  {
+    "ticker": "FDEM",
+    "account": "Fidelity - Amazon",
+    "date": "6/1/25",
+    "shares": 749.641
+  },
+  {
+    "ticker": "FDEM",
+    "account": "Fidelity - Amazon",
+    "date": "5/1/25",
+    "shares": 749.641
+  },
+  {
+    "ticker": "EUAD",
+    "account": "Fidelity - Amazon",
+    "date": "7/1/25",
+    "shares": 470.0
+  },
+  {
+    "ticker": "EUAD",
+    "account": "Fidelity - Amazon",
+    "date": "6/1/25",
+    "shares": 470.0
+  },
+  {
+    "ticker": "EUAD",
+    "account": "Fidelity - Amazon",
+    "date": "5/1/25",
+    "shares": 470.0
+  },
+  {
+    "ticker": "BRHYX",
+    "account": "Fidelity - Instacart",
+    "date": "7/1/25",
+    "shares": 65.391
+  },
+  {
+    "ticker": "BRHYX",
+    "account": "Fidelity - Instacart",
+    "date": "6/1/25",
+    "shares": 32.789
+  },
+  {
+    "ticker": "FSMDX",
+    "account": "Fidelity - Instacart",
+    "date": "7/1/25",
+    "shares": 20.382
+  },
+  {
+    "ticker": "FSMDX",
+    "account": "Fidelity - Instacart",
+    "date": "6/1/25",
+    "shares": 10.352
+  },
+  {
+    "ticker": "FSPGX",
+    "account": "Fidelity - Instacart",
+    "date": "7/1/25",
+    "shares": 11.953
+  },
+  {
+    "ticker": "FSPGX",
+    "account": "Fidelity - Instacart",
+    "date": "6/1/25",
+    "shares": 6.172
+  },
+  {
+    "ticker": "FSPSX",
+    "account": "Fidelity - Instacart",
+    "date": "7/1/25",
+    "shares": 24.972
+  },
+  {
+    "ticker": "FSPSX",
+    "account": "Fidelity - Instacart",
+    "date": "6/1/25",
+    "shares": 12.635
+  },
+  {
+    "ticker": "FSRNX",
+    "account": "Fidelity - Instacart",
+    "date": "7/1/25",
+    "shares": 14.249
+  },
+  {
+    "ticker": "FSRNX",
+    "account": "Fidelity - Instacart",
+    "date": "6/1/25",
+    "shares": 7.185
+  },
+  {
+    "ticker": "FSSNX",
+    "account": "Fidelity - Instacart",
+    "date": "7/1/25",
+    "shares": 26.615
+  },
+  {
+    "ticker": "FSSNX",
+    "account": "Fidelity - Instacart",
+    "date": "6/1/25",
+    "shares": 13.658
+  },
+  {
+    "ticker": "VBTLX",
+    "account": "Fidelity - Instacart",
+    "date": "7/1/25",
+    "shares": 48.492
+  },
+  {
+    "ticker": "VBTLX",
+    "account": "Fidelity - Instacart",
+    "date": "6/1/25",
+    "shares": 24.262
+  },
+  {
+    "ticker": "VTABX",
+    "account": "Fidelity - Instacart",
+    "date": "7/1/25",
+    "shares": 11.756
+  },
+  {
+    "ticker": "VTABX",
+    "account": "Fidelity - Instacart",
+    "date": "6/1/25",
+    "shares": 5.885
+  },
+  {
+    "ticker": "VTSAX",
+    "account": "Guideline",
+    "date": "7/1/25",
+    "shares": 140.648
+  },
+  {
+    "ticker": "VTSAX",
+    "account": "Guideline",
+    "date": "6/1/25",
+    "shares": 140.667
+  },
+  {
+    "ticker": "VTSAX",
+    "account": "Guideline",
+    "date": "5/1/25",
+    "shares": 140.6765
+  },
+  {
+    "ticker": "VTSAX",
+    "account": "Guideline",
+    "date": "4/1/25",
+    "shares": 140.686
+  },
+  {
+    "ticker": "VTSAX",
+    "account": "Guideline",
+    "date": "3/1/25",
+    "shares": 140.686
+  },
+  {
+    "ticker": "VTSAX",
+    "account": "Guideline",
+    "date": "2/1/25",
+    "shares": 201.106
+  },
+  {
+    "ticker": "VTSAX",
+    "account": "Guideline",
+    "date": "1/1/25",
+    "shares": 201.106
+  },
+  {
+    "ticker": "VTSAX",
+    "account": "Guideline",
+    "date": "12/1/24",
+    "shares": 195.0385
+  },
+  {
+    "ticker": "VTSAX",
+    "account": "Guideline",
+    "date": "11/1/24",
+    "shares": 192.00475
+  },
+  {
+    "ticker": "VTSAX",
+    "account": "Guideline",
+    "date": "10/1/24",
+    "shares": 188.971
+  },
+  {
+    "ticker": "VTSAX",
+    "account": "Guideline",
+    "date": "9/1/24",
+    "shares": 173.4895
+  },
+  {
+    "ticker": "VTSAX",
+    "account": "Guideline",
+    "date": "8/1/24",
+    "shares": 165.74875
+  },
+  {
+    "ticker": "VTSAX",
+    "account": "Guideline",
+    "date": "7/1/24",
+    "shares": 158.008
+  },
+  {
+    "ticker": "VTSAX",
+    "account": "Guideline",
+    "date": "6/1/24",
+    "shares": 145.184
+  },
+  {
+    "ticker": "VTSAX",
+    "account": "Guideline",
+    "date": "5/1/24",
+    "shares": 138.772
+  },
+  {
+    "ticker": "VTSAX",
+    "account": "Guideline",
+    "date": "4/1/24",
+    "shares": 132.36
+  },
+  {
+    "ticker": "VTSAX",
+    "account": "Guideline",
+    "date": "3/1/24",
+    "shares": 120.463
+  },
+  {
+    "ticker": "VTSAX",
+    "account": "Guideline",
+    "date": "2/1/24",
+    "shares": 114.5145
+  },
+  {
+    "ticker": "VTSAX",
+    "account": "Guideline",
+    "date": "1/1/24",
+    "shares": 108.566
+  },
+  {
+    "ticker": "VTMGX",
+    "account": "Guideline",
+    "date": "7/1/25",
+    "shares": 923.294
+  },
+  {
+    "ticker": "VTMGX",
+    "account": "Guideline",
+    "date": "6/1/25",
+    "shares": 919.7645
+  },
+  {
+    "ticker": "VTMGX",
+    "account": "Guideline",
+    "date": "5/1/25",
+    "shares": 917.99975
+  },
+  {
+    "ticker": "VTMGX",
+    "account": "Guideline",
+    "date": "4/1/25",
+    "shares": 916.235
+  },
+  {
+    "ticker": "VTMGX",
+    "account": "Guideline",
+    "date": "3/1/25",
+    "shares": 916.235
+  },
+  {
+    "ticker": "VTMGX",
+    "account": "Guideline",
+    "date": "2/1/25",
+    "shares": 838.375
+  },
+  {
+    "ticker": "VTMGX",
+    "account": "Guideline",
+    "date": "1/1/25",
+    "shares": 838.375
+  },
+  {
+    "ticker": "VTMGX",
+    "account": "Guideline",
+    "date": "12/1/24",
+    "shares": 765.457
+  },
+  {
+    "ticker": "VTMGX",
+    "account": "Guideline",
+    "date": "11/1/24",
+    "shares": 728.998
+  },
+  {
+    "ticker": "VTMGX",
+    "account": "Guideline",
+    "date": "10/1/24",
+    "shares": 692.539
+  },
+  {
+    "ticker": "VTMGX",
+    "account": "Guideline",
+    "date": "9/1/24",
+    "shares": 641.9725
+  },
+  {
+    "ticker": "VTMGX",
+    "account": "Guideline",
+    "date": "8/1/24",
+    "shares": 616.68925
+  },
+  {
+    "ticker": "VTMGX",
+    "account": "Guideline",
+    "date": "7/1/24",
+    "shares": 591.406
+  },
+  {
+    "ticker": "VTMGX",
+    "account": "Guideline",
+    "date": "6/1/24",
+    "shares": 528.931
+  },
+  {
+    "ticker": "VTMGX",
+    "account": "Guideline",
+    "date": "5/1/24",
+    "shares": 497.6935
+  },
+  {
+    "ticker": "VTMGX",
+    "account": "Guideline",
+    "date": "4/1/24",
+    "shares": 466.456
+  },
+  {
+    "ticker": "VTMGX",
+    "account": "Guideline",
+    "date": "3/1/24",
+    "shares": 420.728
+  },
+  {
+    "ticker": "VTMGX",
+    "account": "Guideline",
+    "date": "2/1/24",
+    "shares": 397.864
+  },
+  {
+    "ticker": "VTMGX",
+    "account": "Guideline",
+    "date": "1/1/24",
+    "shares": 375.0
+  },
+  {
+    "ticker": "VEUSX",
+    "account": "Guideline",
+    "date": "7/1/25",
+    "shares": 129.855
+  },
+  {
+    "ticker": "VEUSX",
+    "account": "Guideline",
+    "date": "6/1/25",
+    "shares": 128.9285
+  },
+  {
+    "ticker": "VEUSX",
+    "account": "Guideline",
+    "date": "5/1/25",
+    "shares": 128.46525
+  },
+  {
+    "ticker": "VEUSX",
+    "account": "Guideline",
+    "date": "4/1/25",
+    "shares": 128.002
+  },
+  {
+    "ticker": "VEUSX",
+    "account": "Guideline",
+    "date": "3/1/25",
+    "shares": 128.002
+  },
+  {
+    "ticker": "VFWAX",
+    "account": "Guideline",
+    "date": "7/1/25",
+    "shares": 199.987
+  },
+  {
+    "ticker": "VFWAX",
+    "account": "Guideline",
+    "date": "6/1/25",
+    "shares": 199.3005
+  },
+  {
+    "ticker": "VFWAX",
+    "account": "Guideline",
+    "date": "5/1/25",
+    "shares": 198.95725
+  },
+  {
+    "ticker": "VFWAX",
+    "account": "Guideline",
+    "date": "4/1/25",
+    "shares": 198.614
+  },
+  {
+    "ticker": "VFWAX",
+    "account": "Guideline",
+    "date": "3/1/25",
+    "shares": 198.614
+  },
+  {
+    "ticker": "VTABX",
+    "account": "Guideline",
+    "date": "7/1/25",
+    "shares": 396.005
+  },
+  {
+    "ticker": "VTABX",
+    "account": "Guideline",
+    "date": "6/1/25",
+    "shares": 394.7885
+  },
+  {
+    "ticker": "VTABX",
+    "account": "Guideline",
+    "date": "5/1/25",
+    "shares": 394.18025
+  },
+  {
+    "ticker": "VTABX",
+    "account": "Guideline",
+    "date": "4/1/25",
+    "shares": 393.572
+  },
+  {
+    "ticker": "VTABX",
+    "account": "Guideline",
+    "date": "3/1/25",
+    "shares": 393.572
+  },
+  {
+    "ticker": "VTABX",
+    "account": "Guideline",
+    "date": "2/1/25",
+    "shares": 212.329
+  },
+  {
+    "ticker": "VTABX",
+    "account": "Guideline",
+    "date": "1/1/25",
+    "shares": 212.329
+  },
+  {
+    "ticker": "VTABX",
+    "account": "Guideline",
+    "date": "12/1/24",
+    "shares": 196.4765
+  },
+  {
+    "ticker": "VTABX",
+    "account": "Guideline",
+    "date": "11/1/24",
+    "shares": 188.55025
+  },
+  {
+    "ticker": "VTABX",
+    "account": "Guideline",
+    "date": "10/1/24",
+    "shares": 180.624
+  },
+  {
+    "ticker": "VTABX",
+    "account": "Guideline",
+    "date": "9/1/24",
+    "shares": 165.8465
+  },
+  {
+    "ticker": "VTABX",
+    "account": "Guideline",
+    "date": "8/1/24",
+    "shares": 158.45775
+  },
+  {
+    "ticker": "VTABX",
+    "account": "Guideline",
+    "date": "7/1/24",
+    "shares": 151.069
+  },
+  {
+    "ticker": "VTABX",
+    "account": "Guideline",
+    "date": "6/1/24",
+    "shares": 135.451
+  },
+  {
+    "ticker": "VTABX",
+    "account": "Guideline",
+    "date": "5/1/24",
+    "shares": 127.642
+  },
+  {
+    "ticker": "VTABX",
+    "account": "Guideline",
+    "date": "4/1/24",
+    "shares": 119.833
+  },
+  {
+    "ticker": "VTABX",
+    "account": "Guideline",
+    "date": "3/1/24",
+    "shares": 105.225
+  },
+  {
+    "ticker": "VTABX",
+    "account": "Guideline",
+    "date": "2/1/24",
+    "shares": 97.921
+  },
+  {
+    "ticker": "VTABX",
+    "account": "Guideline",
+    "date": "1/1/24",
+    "shares": 90.617
+  },
+  {
+    "ticker": "VBTLX",
+    "account": "Guideline",
+    "date": "7/1/25",
+    "shares": 806.09
+  },
+  {
+    "ticker": "VBTLX",
+    "account": "Guideline",
+    "date": "6/1/25",
+    "shares": 801.6325
+  },
+  {
+    "ticker": "VBTLX",
+    "account": "Guideline",
+    "date": "5/1/25",
+    "shares": 799.40375
+  },
+  {
+    "ticker": "VBTLX",
+    "account": "Guideline",
+    "date": "4/1/25",
+    "shares": 797.175
+  },
+  {
+    "ticker": "VBTLX",
+    "account": "Guideline",
+    "date": "3/1/25",
+    "shares": 797.175
+  },
+  {
+    "ticker": "VBTLX",
+    "account": "Guideline",
+    "date": "2/1/25",
+    "shares": 1380.413
+  },
+  {
+    "ticker": "VBTLX",
+    "account": "Guideline",
+    "date": "1/1/25",
+    "shares": 1380.413
+  },
+  {
+    "ticker": "VBTLX",
+    "account": "Guideline",
+    "date": "12/1/24",
+    "shares": 1268.585
+  },
+  {
+    "ticker": "VBTLX",
+    "account": "Guideline",
+    "date": "11/1/24",
+    "shares": 1212.671
+  },
+  {
+    "ticker": "VBTLX",
+    "account": "Guideline",
+    "date": "10/1/24",
+    "shares": 1156.757
+  },
+  {
+    "ticker": "VBTLX",
+    "account": "Guideline",
+    "date": "9/1/24",
+    "shares": 1068.78
+  },
+  {
+    "ticker": "VBTLX",
+    "account": "Guideline",
+    "date": "8/1/24",
+    "shares": 1024.7915
+  },
+  {
+    "ticker": "VBTLX",
+    "account": "Guideline",
+    "date": "7/1/24",
+    "shares": 980.803
+  },
+  {
+    "ticker": "VBTLX",
+    "account": "Guideline",
+    "date": "6/1/24",
+    "shares": 881.48
+  },
+  {
+    "ticker": "VBTLX",
+    "account": "Guideline",
+    "date": "5/1/24",
+    "shares": 831.8185
+  },
+  {
+    "ticker": "VBTLX",
+    "account": "Guideline",
+    "date": "4/1/24",
+    "shares": 782.157
+  },
+  {
+    "ticker": "VBTLX",
+    "account": "Guideline",
+    "date": "3/1/24",
+    "shares": 682.7415
+  },
+  {
+    "ticker": "VBTLX",
+    "account": "Guideline",
+    "date": "2/1/24",
+    "shares": 633.03375
+  },
+  {
+    "ticker": "VBTLX",
+    "account": "Guideline",
+    "date": "1/1/24",
+    "shares": 583.326
+  },
+  {
+    "ticker": "VEMAX",
+    "account": "Guideline",
+    "date": "7/1/25",
+    "shares": 99.999
+  },
+  {
+    "ticker": "VEMAX",
+    "account": "Guideline",
+    "date": "6/1/25",
+    "shares": 99.875
+  },
+  {
+    "ticker": "VEMAX",
+    "account": "Guideline",
+    "date": "5/1/25",
+    "shares": 99.813
+  },
+  {
+    "ticker": "VEMAX",
+    "account": "Guideline",
+    "date": "4/1/25",
+    "shares": 99.751
+  },
+  {
+    "ticker": "VEMAX",
+    "account": "Guideline",
+    "date": "3/1/25",
+    "shares": 99.751
+  },
+  {
+    "ticker": "VEMAX",
+    "account": "Guideline",
+    "date": "2/1/25",
+    "shares": 168.77
+  },
+  {
+    "ticker": "VEMAX",
+    "account": "Guideline",
+    "date": "1/1/25",
+    "shares": 168.77
+  },
+  {
+    "ticker": "VEMAX",
+    "account": "Guideline",
+    "date": "12/1/24",
+    "shares": 158.0835
+  },
+  {
+    "ticker": "VEMAX",
+    "account": "Guideline",
+    "date": "11/1/24",
+    "shares": 152.74025
+  },
+  {
+    "ticker": "VEMAX",
+    "account": "Guideline",
+    "date": "10/1/24",
+    "shares": 147.397
+  },
+  {
+    "ticker": "VEMAX",
+    "account": "Guideline",
+    "date": "9/1/24",
+    "shares": 134.3895
+  },
+  {
+    "ticker": "VEMAX",
+    "account": "Guideline",
+    "date": "8/1/24",
+    "shares": 127.88575
+  },
+  {
+    "ticker": "VEMAX",
+    "account": "Guideline",
+    "date": "7/1/24",
+    "shares": 121.382
+  },
+  {
+    "ticker": "VEMAX",
+    "account": "Guideline",
+    "date": "6/1/24",
+    "shares": 111.1735
+  },
+  {
+    "ticker": "VEMAX",
+    "account": "Guideline",
+    "date": "5/1/24",
+    "shares": 106.06925
+  },
+  {
+    "ticker": "VEMAX",
+    "account": "Guideline",
+    "date": "4/1/24",
+    "shares": 100.965
+  },
+  {
+    "ticker": "VEMAX",
+    "account": "Guideline",
+    "date": "3/1/24",
+    "shares": 90.349
+  },
+  {
+    "ticker": "VEMAX",
+    "account": "Guideline",
+    "date": "2/1/24",
+    "shares": 85.041
+  },
+  {
+    "ticker": "VEMAX",
+    "account": "Guideline",
+    "date": "1/1/24",
+    "shares": 79.733
+  },
+  {
+    "ticker": "VTAPX",
+    "account": "Guideline",
+    "date": "7/1/25",
+    "shares": 154.347
+  },
+  {
+    "ticker": "VTAPX",
+    "account": "Guideline",
+    "date": "6/1/25",
+    "shares": 154.255
+  },
+  {
+    "ticker": "VTAPX",
+    "account": "Guideline",
+    "date": "5/1/25",
+    "shares": 154.209
+  },
+  {
+    "ticker": "VTAPX",
+    "account": "Guideline",
+    "date": "4/1/25",
+    "shares": 154.163
+  },
+  {
+    "ticker": "VTAPX",
+    "account": "Guideline",
+    "date": "3/1/25",
+    "shares": 154.163
+  },
+  {
+    "ticker": "VGSLX",
+    "account": "Guideline",
+    "date": "2/1/25",
+    "shares": 26.321
+  },
+  {
+    "ticker": "VGSLX",
+    "account": "Guideline",
+    "date": "1/1/25",
+    "shares": 26.321
+  },
+  {
+    "ticker": "VGSLX",
+    "account": "Guideline",
+    "date": "12/1/24",
+    "shares": 24.179
+  },
+  {
+    "ticker": "VGSLX",
+    "account": "Guideline",
+    "date": "11/1/24",
+    "shares": 23.108
+  },
+  {
+    "ticker": "VGSLX",
+    "account": "Guideline",
+    "date": "10/1/24",
+    "shares": 22.037
+  },
+  {
+    "ticker": "VGSLX",
+    "account": "Guideline",
+    "date": "9/1/24",
+    "shares": 21.392
+  },
+  {
+    "ticker": "VGSLX",
+    "account": "Guideline",
+    "date": "8/1/24",
+    "shares": 21.0695
+  },
+  {
+    "ticker": "VGSLX",
+    "account": "Guideline",
+    "date": "7/1/24",
+    "shares": 20.747
+  },
+  {
+    "ticker": "VGSLX",
+    "account": "Guideline",
+    "date": "6/1/24",
+    "shares": 18.516
+  },
+  {
+    "ticker": "VGSLX",
+    "account": "Guideline",
+    "date": "5/1/24",
+    "shares": 17.4005
+  },
+  {
+    "ticker": "VGSLX",
+    "account": "Guideline",
+    "date": "4/1/24",
+    "shares": 16.285
+  },
+  {
+    "ticker": "VGSLX",
+    "account": "Guideline",
+    "date": "3/1/24",
+    "shares": 14.148
+  },
+  {
+    "ticker": "VGSLX",
+    "account": "Guideline",
+    "date": "2/1/24",
+    "shares": 13.0795
+  },
+  {
+    "ticker": "VGSLX",
+    "account": "Guideline",
+    "date": "1/1/24",
+    "shares": 12.011
+  },
+  {
+    "ticker": "Cash",
+    "account": "BoA",
+    "date": "7/1/25",
+    "shares": 64073.02
+  },
+  {
+    "ticker": "Cash",
+    "account": "BoA",
+    "date": "6/1/25",
+    "shares": 61577.53
+  },
+  {
+    "ticker": "Cash",
+    "account": "BoA",
+    "date": "5/1/25",
+    "shares": 50369.76
+  },
+  {
+    "ticker": "Cash",
+    "account": "BoA",
+    "date": "4/1/25",
+    "shares": 56956.03
+  },
+  {
+    "ticker": "Cash",
+    "account": "BoA",
+    "date": "3/1/25",
+    "shares": 46463.99
+  },
+  {
+    "ticker": "Cash",
+    "account": "BoA",
+    "date": "2/1/25",
+    "shares": 48229.32
+  },
+  {
+    "ticker": "Cash",
+    "account": "BoA",
+    "date": "1/1/25",
+    "shares": 61532.69
+  },
+  {
+    "ticker": "Cash",
+    "account": "BoA",
+    "date": "12/1/24",
+    "shares": 510547.27
+  },
+  {
+    "ticker": "Cash",
+    "account": "BoA",
+    "date": "11/1/24",
+    "shares": 16459.82
+  },
+  {
+    "ticker": "Cash",
+    "account": "BoA",
+    "date": "10/1/24",
+    "shares": 8116.6
+  },
+  {
+    "ticker": "Cash",
+    "account": "BoA",
+    "date": "9/1/24",
+    "shares": 8661.63
+  },
+  {
+    "ticker": "Cash",
+    "account": "BoA",
+    "date": "8/1/24",
+    "shares": 22689.09
+  },
+  {
+    "ticker": "Cash",
+    "account": "BoA",
+    "date": "7/1/24",
+    "shares": 160524.03
+  },
+  {
+    "ticker": "Cash",
+    "account": "BoA",
+    "date": "6/1/24",
+    "shares": 173505.98
+  },
+  {
+    "ticker": "Cash",
+    "account": "BoA",
+    "date": "5/1/24",
+    "shares": 199073.13
+  },
+  {
+    "ticker": "Cash",
+    "account": "BoA",
+    "date": "4/1/24",
+    "shares": 21810.04
+  },
+  {
+    "ticker": "Cash",
+    "account": "BoA",
+    "date": "3/1/24",
+    "shares": 21870.86
+  },
+  {
+    "ticker": "Cash",
+    "account": "BoA",
+    "date": "2/1/24",
+    "shares": 19351.66
+  },
+  {
+    "ticker": "Cash",
+    "account": "BoA",
+    "date": "1/1/24",
+    "shares": 17166.52
+  },
+  {
+    "ticker": "Cash",
+    "account": "Fidelity - Individual",
+    "date": "8/2/25",
+    "shares": 8665.66
+  },
+  {
+    "ticker": "EUAD",
+    "account": "Fidelity - Amazon",
+    "date": "8/2/25",
+    "shares": 470.0
+  },
+  {
+    "ticker": "FDEM",
+    "account": "Fidelity - Amazon",
+    "date": "8/2/25",
+    "shares": 749.64
+  },
+  {
+    "ticker": "FDEV",
+    "account": "Fidelity - Amazon",
+    "date": "8/2/25",
+    "shares": 1600.0
+  },
+  {
+    "ticker": "FDRV",
+    "account": "Fidelity - Amazon",
+    "date": "8/2/25",
+    "shares": 2031.14
+  },
+  {
+    "ticker": "FSKAX",
+    "account": "Fidelity - Amazon",
+    "date": "8/2/25",
+    "shares": 293.6
+  },
+  {
+    "ticker": "VGK",
+    "account": "Fidelity - Amazon",
+    "date": "8/2/25",
+    "shares": 287.39
+  },
+  {
+    "ticker": "VPU",
+    "account": "Fidelity - Amazon",
+    "date": "8/2/25",
+    "shares": 58.56
+  },
+  {
+    "ticker": "BRHYX",
+    "account": "Fidelity - Instacart",
+    "date": "8/2/25",
+    "shares": 113.97
+  },
+  {
+    "ticker": "FSMDX",
+    "account": "Fidelity - Instacart",
+    "date": "8/2/25",
+    "shares": 34.88
+  },
+  {
+    "ticker": "FSPGX",
+    "account": "Fidelity - Instacart",
+    "date": "8/2/25",
+    "shares": 20.13
+  },
+  {
+    "ticker": "FSPSX",
+    "account": "Fidelity - Instacart",
+    "date": "8/2/25",
+    "shares": 43.27
+  },
+  {
+    "ticker": "FSRNX",
+    "account": "Fidelity - Instacart",
+    "date": "8/2/25",
+    "shares": 24.74
+  },
+  {
+    "ticker": "FSSNX",
+    "account": "Fidelity - Instacart",
+    "date": "8/2/25",
+    "shares": 45.28
+  },
+  {
+    "ticker": "VBTLX",
+    "account": "Fidelity - Instacart",
+    "date": "8/2/25",
+    "shares": 84.61
+  },
+  {
+    "ticker": "VTABX",
+    "account": "Fidelity - Instacart",
+    "date": "8/2/25",
+    "shares": 20.56
+  },
+  {
+    "ticker": "VTSAX",
+    "account": "Guideline",
+    "date": "8/2/25",
+    "shares": 141.02
+  },
+  {
+    "ticker": "VTMGX",
+    "account": "Guideline",
+    "date": "8/2/25",
+    "shares": 922.97
+  },
+  {
+    "ticker": "VEUSX",
+    "account": "Guideline",
+    "date": "8/2/25",
+    "shares": 129.81
+  },
+  {
+    "ticker": "VFWAX",
+    "account": "Guideline",
+    "date": "8/2/25",
+    "shares": 199.94
+  },
+  {
+    "ticker": "VTABX",
+    "account": "Guideline",
+    "date": "8/2/25",
+    "shares": 397.55
+  },
+  {
+    "ticker": "VBTLX",
+    "account": "Guideline",
+    "date": "8/2/25",
+    "shares": 811.1
+  },
+  {
+    "ticker": "VEMAX",
+    "account": "Guideline",
+    "date": "8/2/25",
+    "shares": 99.96
+  },
+  {
+    "ticker": "VTAPX",
+    "account": "Guideline",
+    "date": "8/2/25",
+    "shares": 155.6
+  },
+  {
+    "ticker": "Cash",
+    "account": "Fidelity - Amazon",
+    "date": "8/2/25",
+    "shares": 663.1
+  },
+  {
+    "ticker": "Cash",
+    "account": "Vanguard",
+    "date": "8/2/25",
+    "shares": 26371.82
+  },
+  {
+    "ticker": "VBIAX",
+    "account": "Vanguard",
+    "date": "8/2/25",
+    "shares": 455.07
+  },
+  {
+    "ticker": "VTSAX",
+    "account": "Vanguard",
+    "date": "8/2/25",
+    "shares": 360.93
+  },
+  {
+    "ticker": "MGK",
+    "account": "Vanguard",
+    "date": "8/2/25",
+    "shares": 335.1
+  },
+  {
+    "ticker": "VOO",
+    "account": "Vanguard",
+    "date": "8/2/25",
+    "shares": 457.49
+  },
+  {
+    "ticker": "VT",
+    "account": "Vanguard",
+    "date": "8/2/25",
+    "shares": 66.97
+  },
+  {
+    "ticker": "VTI",
+    "account": "Vanguard",
+    "date": "8/2/25",
+    "shares": 490.31
+  },
+  {
+    "ticker": "BMO",
+    "account": "Vanguard",
+    "date": "8/2/25",
+    "shares": 196.66
+  },
+  {
+    "ticker": "BRK-B",
+    "account": "Vanguard",
+    "date": "8/2/25",
+    "shares": 23.0
+  },
+  {
+    "ticker": "Cash",
+    "account": "BoA",
+    "date": "8/2/25",
+    "shares": 63277.21
+  },
+  {
+    "ticker": "VBIAX",
+    "account": "Vanguard",
+    "date": "9/1/25",
+    "shares": 455.068
+  },
+  {
+    "ticker": "VTSAX",
+    "account": "Vanguard",
+    "date": "9/1/25",
+    "shares": 360.932
+  },
+  {
+    "ticker": "MGK",
+    "account": "Vanguard",
+    "date": "9/1/25",
+    "shares": 335.099
+  },
+  {
+    "ticker": "VOO",
+    "account": "Vanguard",
+    "date": "9/1/25",
+    "shares": 457.491
+  },
+  {
+    "ticker": "VT",
+    "account": "Vanguard",
+    "date": "9/1/25",
+    "shares": 66.973
+  },
+  {
+    "ticker": "VTI",
+    "account": "Vanguard",
+    "date": "9/1/25",
+    "shares": 490.311
+  },
+  {
+    "ticker": "VTI",
+    "account": "Vanguard",
+    "date": "9/1/25",
+    "shares": 490.311
+  },
+  {
+    "ticker": "BMO",
+    "account": "Vanguard",
+    "date": "9/1/25",
+    "shares": 198.319
+  },
+  {
+    "ticker": "BRK-B",
+    "account": "Vanguard",
+    "date": "9/1/25",
+    "shares": 23.0
+  },
+  {
+    "ticker": "EUAD",
+    "account": "Fidelity - Amazon",
+    "date": "9/1/25",
+    "shares": 470.0
+  },
+  {
+    "ticker": "FDEM",
+    "account": "Fidelity - Amazon",
+    "date": "9/1/25",
+    "shares": 749.641
+  },
+  {
+    "ticker": "FDEV",
+    "account": "Fidelity - Amazon",
+    "date": "9/1/25",
+    "shares": 1600.0
+  },
+  {
+    "ticker": "FDRV",
+    "account": "Fidelity - Amazon",
+    "date": "9/1/25",
+    "shares": 2031.144
+  },
+  {
+    "ticker": "FSKAX",
+    "account": "Fidelity - Amazon",
+    "date": "9/1/25",
+    "shares": 293.6
+  },
+  {
+    "ticker": "VGK",
+    "account": "Fidelity - Amazon",
+    "date": "9/1/25",
+    "shares": 287.388
+  },
+  {
+    "ticker": "VPU",
+    "account": "Fidelity - Amazon",
+    "date": "9/1/25",
+    "shares": 58.561
+  },
+  {
+    "ticker": "Cash",
+    "account": "Fidelity - Amazon",
+    "date": "9/1/25",
+    "shares": 665.37
+  },
+  {
+    "ticker": "Cash",
+    "account": "Fidelity - Individual",
+    "date": "9/1/25",
+    "shares": 8667.84
+  },
+  {
+    "ticker": "BRHYX",
+    "account": "Fidelity - Instacart",
+    "date": "9/1/25",
+    "shares": 146.666
+  },
+  {
+    "ticker": "FSMDX",
+    "account": "Fidelity - Instacart",
+    "date": "9/1/25",
+    "shares": 44.395
+  },
+  {
+    "ticker": "FSPGX",
+    "account": "Fidelity - Instacart",
+    "date": "9/1/25",
+    "shares": 25.423
+  },
+  {
+    "ticker": "FSPSX",
+    "account": "Fidelity - Instacart",
+    "date": "9/1/25",
+    "shares": 55.099
+  },
+  {
+    "ticker": "FSRNX",
+    "account": "Fidelity - Instacart",
+    "date": "9/1/25",
+    "shares": 31.965
+  },
+  {
+    "ticker": "FSSNX",
+    "account": "Fidelity - Instacart",
+    "date": "9/1/25",
+    "shares": 57.19
+  },
+  {
+    "ticker": "VBTLX",
+    "account": "Fidelity - Instacart",
+    "date": "9/1/25",
+    "shares": 108.764
+  },
+  {
+    "ticker": "VTABX",
+    "account": "Fidelity - Instacart",
+    "date": "9/1/25",
+    "shares": 26.485
+  },
+  {
+    "ticker": "VTMGX",
+    "account": "Guideline",
+    "date": "9/1/25",
+    "shares": 922.81
+  },
+  {
+    "ticker": "VEMAX",
+    "account": "Guideline",
+    "date": "9/1/25",
+    "shares": 99.94
+  },
+  {
+    "ticker": "VTABX",
+    "account": "Guideline",
+    "date": "9/1/25",
+    "shares": 398.36
+  },
+  {
+    "ticker": "VTSAX",
+    "account": "Guideline",
+    "date": "9/1/25",
+    "shares": 140.99
+  },
+  {
+    "ticker": "VBTLX",
+    "account": "Guideline",
+    "date": "9/1/25",
+    "shares": 813.65
+  },
+  {
+    "ticker": "VTAPX",
+    "account": "Guideline",
+    "date": "9/1/25",
+    "shares": 155.57
+  },
+  {
+    "ticker": "VEUSX",
+    "account": "Guideline",
+    "date": "9/1/25",
+    "shares": 129.78
+  },
+  {
+    "ticker": "VFWAX",
+    "account": "Guideline",
+    "date": "9/1/25",
+    "shares": 199.913
+  },
+  {
+    "ticker": "Cash",
+    "account": "BoA",
+    "date": "9/1/25",
+    "shares": 51812.46
+  },
+  {
+    "ticker": "Cash",
+    "account": "Vanguard",
+    "date": "9/01/25",
+    "shares": 26446.17
+  },
+  {
+    "ticker": "VBIAX",
+    "account": "Vanguard",
+    "date": "10/1/25",
+    "shares": 457.476
+  },
+  {
+    "ticker": "VTSAX",
+    "account": "Vanguard",
+    "date": "10/1/25",
+    "shares": 361.924
+  },
+  {
+    "ticker": "MGK",
+    "account": "Vanguard",
+    "date": "10/1/25",
+    "shares": 335.38
+  },
+  {
+    "ticker": "VOO",
+    "account": "Vanguard",
+    "date": "10/1/25",
+    "shares": 458.794
+  },
+  {
+    "ticker": "VT",
+    "account": "Vanguard",
+    "date": "10/1/25",
+    "shares": 67.205
+  },
+  {
+    "ticker": "VTI",
+    "account": "Vanguard",
+    "date": "10/1/25",
+    "shares": 491.67
+  },
+  {
+    "ticker": "BMO",
+    "account": "Vanguard",
+    "date": "10/1/25",
+    "shares": 198.319
+  },
+  {
+    "ticker": "BRK-B",
+    "account": "Vanguard",
+    "date": "10/1/25",
+    "shares": 23.0
+  },
+  {
+    "ticker": "EUAD",
+    "account": "Fidelity - Amazon",
+    "date": "10/1/25",
+    "shares": 470.0
+  },
+  {
+    "ticker": "FDEM",
+    "account": "Fidelity - Amazon",
+    "date": "10/1/25",
+    "shares": 756.498
+  },
+  {
+    "ticker": "FDEV",
+    "account": "Fidelity - Amazon",
+    "date": "10/1/25",
+    "shares": 1609.945
+  },
+  {
+    "ticker": "FDRV",
+    "account": "Fidelity - Amazon",
+    "date": "10/1/25",
+    "shares": 2035.178
+  },
+  {
+    "ticker": "FSKAX",
+    "account": "Fidelity - Amazon",
+    "date": "10/1/25",
+    "shares": 293.6
+  },
+  {
+    "ticker": "VGK",
+    "account": "Fidelity - Amazon",
+    "date": "10/1/25",
+    "shares": 288.144
+  },
+  {
+    "ticker": "VPU",
+    "account": "Fidelity - Amazon",
+    "date": "10/1/25",
+    "shares": 58.946
+  },
+  {
+    "ticker": "Cash",
+    "account": "Fidelity - Amazon",
+    "date": "10/1/25",
+    "shares": 662.93
+  },
+  {
+    "ticker": "Cash",
+    "account": "Fidelity - Individual",
+    "date": "10/1/25",
+    "shares": 8735.1
+  },
+  {
+    "ticker": "BRHYX",
+    "account": "Fidelity - Instacart",
+    "date": "10/1/25",
+    "shares": 195.35
+  },
+  {
+    "ticker": "FSMDX",
+    "account": "Fidelity - Instacart",
+    "date": "10/1/25",
+    "shares": 58.501
+  },
+  {
+    "ticker": "FSPGX",
+    "account": "Fidelity - Instacart",
+    "date": "10/1/25",
+    "shares": 33.05
+  },
+  {
+    "ticker": "FSPSX",
+    "account": "Fidelity - Instacart",
+    "date": "10/1/25",
+    "shares": 72.559
+  },
+  {
+    "ticker": "FSRNX",
+    "account": "Fidelity - Instacart",
+    "date": "10/1/25",
+    "shares": 42.396
+  },
+  {
+    "ticker": "FSSNX",
+    "account": "Fidelity - Instacart",
+    "date": "10/1/25",
+    "shares": 74.349
+  },
+  {
+    "ticker": "VBTLX",
+    "account": "Fidelity - Instacart",
+    "date": "10/1/25",
+    "shares": 144.419
+  },
+  {
+    "ticker": "VTABX",
+    "account": "Fidelity - Instacart",
+    "date": "10/1/25",
+    "shares": 35.295
+  },
+  {
+    "ticker": "Cash",
+    "account": "Vanguard",
+    "date": "10/1/25",
+    "shares": 26554.05
+  },
+  {
+    "ticker": "VTMGX",
+    "account": "Guideline",
+    "date": "10/1/25",
+    "shares": 927.039
+  },
+  {
+    "ticker": "VEMAX",
+    "account": "Guideline",
+    "date": "10/1/25",
+    "shares": 100.429
+  },
+  {
+    "ticker": "VTABX",
+    "account": "Guideline",
+    "date": "10/1/25",
+    "shares": 339.124
+  },
+  {
+    "ticker": "VTSAX",
+    "account": "Guideline",
+    "date": "10/1/25",
+    "shares": 141.355
+  },
+  {
+    "ticker": "VBTLX",
+    "account": "Guideline",
+    "date": "10/1/25",
+    "shares": 816.131
+  },
+  {
+    "ticker": "VTAPX",
+    "account": "Guideline",
+    "date": "10/1/25",
+    "shares": 157.548
+  },
+  {
+    "ticker": "VEUSX",
+    "account": "Guideline",
+    "date": "10/1/25",
+    "shares": 130.095
+  },
+  {
+    "ticker": "VFWAX",
+    "account": "Guideline",
+    "date": "10/1/25",
+    "shares": 200.863
+  },
+  {
+    "ticker": "Cash",
+    "account": "BoA",
+    "date": "10/1/25",
+    "shares": 45596.27
+  },
+  {
+    "ticker": "VBIAX",
+    "account": "Vanguard",
+    "date": "11/1/25",
+    "shares": 457.476
+  },
+  {
+    "ticker": "VTSAX",
+    "account": "Vanguard",
+    "date": "11/1/25",
+    "shares": 361.924
+  },
+  {
+    "ticker": "MGK",
+    "account": "Vanguard",
+    "date": "11/1/25",
+    "shares": 335.38
+  },
+  {
+    "ticker": "VOO",
+    "account": "Vanguard",
+    "date": "11/1/25",
+    "shares": 458.794
+  },
+  {
+    "ticker": "VT",
+    "account": "Vanguard",
+    "date": "11/1/25",
+    "shares": 67.205
+  },
+  {
+    "ticker": "VTI",
+    "account": "Vanguard",
+    "date": "11/1/25",
+    "shares": 491.67
+  },
+  {
+    "ticker": "BMO",
+    "account": "Vanguard",
+    "date": "11/1/25",
+    "shares": 198.319
+  },
+  {
+    "ticker": "BRK-B",
+    "account": "Vanguard",
+    "date": "11/1/25",
+    "shares": 23.0
+  },
+  {
+    "ticker": "Cash",
+    "account": "Vanguard",
+    "date": "11/1/25",
+    "shares": 26645.2
+  },
+  {
+    "ticker": "EUAD",
+    "account": "Fidelity - Amazon",
+    "date": "11/1/25",
+    "shares": 470.0
+  },
+  {
+    "ticker": "FDEM",
+    "account": "Fidelity - Amazon",
+    "date": "11/1/25",
+    "shares": 756.498
+  },
+  {
+    "ticker": "FDEV",
+    "account": "Fidelity - Amazon",
+    "date": "11/1/25",
+    "shares": 1609.95
+  },
+  {
+    "ticker": "FDRV",
+    "account": "Fidelity - Amazon",
+    "date": "11/1/25",
+    "shares": 2035.178
+  },
+  {
+    "ticker": "FSKAX",
+    "account": "Fidelity - Amazon",
+    "date": "11/1/25",
+    "shares": 293.6
+  },
+  {
+    "ticker": "VGK",
+    "account": "Fidelity - Amazon",
+    "date": "11/1/25",
+    "shares": 288.144
+  },
+  {
+    "ticker": "VPU",
+    "account": "Fidelity - Amazon",
+    "date": "11/1/25",
+    "shares": 58.946
+  },
+  {
+    "ticker": "Cash",
+    "account": "Fidelity - Amazon",
+    "date": "11/1/25",
+    "shares": 665.1
+  },
+  {
+    "ticker": "Cash",
+    "account": "Fidelity - Individual",
+    "date": "11/1/25",
+    "shares": 8745.86
+  },
+  {
+    "ticker": "BRHYX",
+    "account": "Fidelity - Instacart",
+    "date": "11/1/25",
+    "shares": 212.381
+  },
+  {
+    "ticker": "FSMDX",
+    "account": "Fidelity - Instacart",
+    "date": "11/1/25",
+    "shares": 63.15
+  },
+  {
+    "ticker": "FSPGX",
+    "account": "Fidelity - Instacart",
+    "date": "11/1/25",
+    "shares": 35.456
+  },
+  {
+    "ticker": "FSPSX",
+    "account": "Fidelity - Instacart",
+    "date": "11/1/25",
+    "shares": 78.2
+  },
+  {
+    "ticker": "FSRNX",
+    "account": "Fidelity - Instacart",
+    "date": "11/1/25",
+    "shares": 45.857
+  },
+  {
+    "ticker": "FSSNX",
+    "account": "Fidelity - Instacart",
+    "date": "11/1/25",
+    "shares": 79.847
+  },
+  {
+    "ticker": "VBTLX",
+    "account": "Fidelity - Instacart",
+    "date": "11/1/25",
+    "shares": 156.576
+  },
+  {
+    "ticker": "VTABX",
+    "account": "Fidelity - Instacart",
+    "date": "11/1/25",
+    "shares": 38.27
+  },
+  {
+    "ticker": "VTMGX",
+    "account": "Guideline",
+    "date": "11/1/25",
+    "shares": 927.039
+  },
+  {
+    "ticker": "VEMAX",
+    "account": "Guideline",
+    "date": "11/1/25",
+    "shares": 100.429
+  },
+  {
+    "ticker": "VTABX",
+    "account": "Guideline",
+    "date": "11/1/25",
+    "shares": 339.124
+  },
+  {
+    "ticker": "VTSAX",
+    "account": "Guideline",
+    "date": "11/1/25",
+    "shares": 141.355
+  },
+  {
+    "ticker": "VBTLX",
+    "account": "Guideline",
+    "date": "11/1/25",
+    "shares": 816.131
+  },
+  {
+    "ticker": "VTAPX",
+    "account": "Guideline",
+    "date": "11/1/25",
+    "shares": 157.548
+  },
+  {
+    "ticker": "VEUSX",
+    "account": "Guideline",
+    "date": "11/1/25",
+    "shares": 130.095
+  },
+  {
+    "ticker": "VFWAX",
+    "account": "Guideline",
+    "date": "11/1/25",
+    "shares": 200.863
+  },
+  {
+    "ticker": "Cash",
+    "account": "BoA",
+    "date": "11/1/25",
+    "shares": 43075.23
+  },
+  {
+    "ticker": "VBIAX",
+    "account": "Vanguard",
+    "date": "12/1/25",
+    "shares": 457.476
+  },
+  {
+    "ticker": "VTSAX",
+    "account": "Vanguard",
+    "date": "12/1/25",
+    "shares": 361.924
+  },
+  {
+    "ticker": "MGK",
+    "account": "Vanguard",
+    "date": "12/1/25",
+    "shares": 335.38
+  },
+  {
+    "ticker": "VOO",
+    "account": "Vanguard",
+    "date": "12/1/25",
+    "shares": 458.794
+  },
+  {
+    "ticker": "VT",
+    "account": "Vanguard",
+    "date": "12/1/25",
+    "shares": 67.21
+  },
+  {
+    "ticker": "VTI",
+    "account": "Vanguard",
+    "date": "12/1/25",
+    "shares": 491.67
+  },
+  {
+    "ticker": "BMO",
+    "account": "Vanguard",
+    "date": "12/1/25",
+    "shares": 199.88
+  },
+  {
+    "ticker": "BRK-B",
+    "account": "Vanguard",
+    "date": "12/1/25",
+    "shares": 23.0
+  },
+  {
+    "ticker": "Cash",
+    "account": "Vanguard",
+    "date": "12/1/25",
+    "shares": 26728.24
+  },
+  {
+    "ticker": "EUAD",
+    "account": "Fidelity - Amazon",
+    "date": "12/1/25",
+    "shares": 470.0
+  },
+  {
+    "ticker": "FDEM",
+    "account": "Fidelity - Amazon",
+    "date": "12/1/25",
+    "shares": 756.498
+  },
+  {
+    "ticker": "FDEV",
+    "account": "Fidelity - Amazon",
+    "date": "12/1/25",
+    "shares": 1609.95
+  },
+  {
+    "ticker": "FDRV",
+    "account": "Fidelity - Amazon",
+    "date": "12/1/25",
+    "shares": 2035.178
+  },
+  {
+    "ticker": "FSKAX",
+    "account": "Fidelity - Amazon",
+    "date": "12/1/25",
+    "shares": 293.6
+  },
+  {
+    "ticker": "VGK",
+    "account": "Fidelity - Amazon",
+    "date": "12/1/25",
+    "shares": 288.144
+  },
+  {
+    "ticker": "VPU",
+    "account": "Fidelity - Amazon",
+    "date": "12/1/25",
+    "shares": 58.946
+  },
+  {
+    "ticker": "Cash",
+    "account": "Fidelity - Amazon",
+    "date": "12/1/25",
+    "shares": 667.11
+  },
+  {
+    "ticker": "Cash",
+    "account": "Fidelity - Individual",
+    "date": "12/1/25",
+    "shares": 8749.72
+  },
+  {
+    "ticker": "BRHYX",
+    "account": "Fidelity - Instacart",
+    "date": "12/1/25",
+    "shares": 261.463
+  },
+  {
+    "ticker": "FSMDX",
+    "account": "Fidelity - Instacart",
+    "date": "12/1/25",
+    "shares": 77.269
+  },
+  {
+    "ticker": "FSPGX",
+    "account": "Fidelity - Instacart",
+    "date": "12/1/25",
+    "shares": 42.931
+  },
+  {
+    "ticker": "FSPSX",
+    "account": "Fidelity - Instacart",
+    "date": "12/1/25",
+    "shares": 95.397
+  },
+  {
+    "ticker": "FSRNX",
+    "account": "Fidelity - Instacart",
+    "date": "12/1/25",
+    "shares": 56.374
+  },
+  {
+    "ticker": "FSSNX",
+    "account": "Fidelity - Instacart",
+    "date": "12/1/25",
+    "shares": 96.673
+  },
+  {
+    "ticker": "VBTLX",
+    "account": "Fidelity - Instacart",
+    "date": "12/1/25",
+    "shares": 192.47
+  },
+  {
+    "ticker": "VTABX",
+    "account": "Fidelity - Instacart",
+    "date": "12/1/25",
+    "shares": 48.056
+  },
+  {
+    "ticker": "VTMGX",
+    "account": "Guideline",
+    "date": "12/1/25",
+    "shares": 926.72
+  },
+  {
+    "ticker": "VEMAX",
+    "account": "Guideline",
+    "date": "12/1/25",
+    "shares": 100.39
+  },
+  {
+    "ticker": "VTABX",
+    "account": "Guideline",
+    "date": "12/1/25",
+    "shares": 400.68
+  },
+  {
+    "ticker": "VTSAX",
+    "account": "Guideline",
+    "date": "12/1/25",
+    "shares": 141.305
+  },
+  {
+    "ticker": "VBTLX",
+    "account": "Guideline",
+    "date": "12/1/25",
+    "shares": 821.18
+  },
+  {
+    "ticker": "VTAPX",
+    "account": "Guideline",
+    "date": "12/1/25",
+    "shares": 157.49
+  },
+  {
+    "ticker": "VEUSX",
+    "account": "Guideline",
+    "date": "12/1/25",
+    "shares": 130.047
+  },
+  {
+    "ticker": "VFWAX",
+    "account": "Guideline",
+    "date": "12/1/25",
+    "shares": 200.81
+  },
+  {
+    "ticker": "Cash",
+    "account": "BoA",
+    "date": "12/1/25",
+    "shares": 37959.66
+  }
+]

@@ -1,0 +1,52 @@
+INFO:     Will watch for changes in these directories: ['/home/yovchare/workspace/investments/backend']
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+INFO:     Started reloader process [84354] using WatchFiles
+INFO:     Started server process [84378]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+Database connected
+INFO:     127.0.0.1:35980 - "GET /api/tickers HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:35986 - "GET /api/tickers HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:35986 - "GET /api/tickers/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35980 - "GET /api/tickers/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35986 - "GET /api/properties HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:35980 - "GET /api/properties HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:35980 - "GET /api/properties/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35986 - "GET /api/properties/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35980 - "GET /api/accounts HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:35986 - "GET /api/accounts HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:35980 - "GET /api/accounts/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35986 - "GET /api/accounts/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35980 - "POST /api/accounts HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:35986 - "POST /api/accounts/ HTTP/1.1" 201 Created
+INFO:     127.0.0.1:35020 - "GET /api/accounts HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:35030 - "GET /api/accounts HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:35020 - "GET /api/accounts/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35030 - "GET /api/accounts/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34852 - "GET /api/accounts HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:34866 - "GET /api/accounts HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:34852 - "GET /api/accounts/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34866 - "GET /api/accounts/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59778 - "GET /api/accounts HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:59778 - "GET /api/accounts HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:59778 - "GET /api/accounts/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59788 - "GET /api/accounts/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59778 - "POST /api/accounts HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:59788 - "POST /api/accounts/ HTTP/1.1" 201 Created
+INFO:     127.0.0.1:59778 - "DELETE /api/accounts/3 HTTP/1.1" 204 No Content
+INFO:     127.0.0.1:59778 - "DELETE /api/accounts/2 HTTP/1.1" 204 No Content
+INFO:     127.0.0.1:59778 - "GET /api/properties HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:59796 - "GET /api/properties HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:59778 - "GET /api/properties/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59796 - "GET /api/properties/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59778 - "POST /api/properties HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:59778 - "POST /api/properties/ HTTP/1.1" 201 Created
+INFO:     127.0.0.1:59778 - "DELETE /api/properties/4 HTTP/1.1" 204 No Content
+INFO:     127.0.0.1:59778 - "GET /api/accounts HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:59796 - "GET /api/accounts HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:59796 - "GET /api/accounts/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59778 - "GET /api/accounts/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59778 - "GET /api/tickers HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:59796 - "GET /api/tickers HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:59778 - "GET /api/tickers/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59796 - "GET /api/tickers/ HTTP/1.1" 200 OK

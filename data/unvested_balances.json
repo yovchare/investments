@@ -1,0 +1,54 @@
+[
+  {
+    "date": "4/1/25",
+    "ticker": "CART",
+    "account": "Unvested RSU",
+    "shares": 14339
+  },
+  {
+    "date": "5/1/25",
+    "ticker": "CART",
+    "account": "Unvested RSU",
+    "shares": 14339
+  },
+  {
+    "date": "6/1/25",
+    "ticker": "CART",
+    "account": "Unvested RSU",
+    "shares": 14339
+  },
+  {
+    "date": "7/1/25",
+    "ticker": "CART",
+    "account": "Unvested RSU",
+    "shares": 14339
+  },
+  {
+    "date": "8/1/25",
+    "ticker": "CART",
+    "account": "Unvested RSU",
+    "shares": 14339
+  },
+  {
+    "date": "9/1/25",
+    "ticker": "CART",
+    "account": "Unvested RSU",
+    "shares": 14339
+  },
+  {
+    "date": "10/1/25",
+    "ticker": "CART",
+    "account": "Unvested RSU",
+    "shares": 14339
+  },
+  {
+    "ticker": "CART",
+    "date": "11/1/25",
+    "shares": 14339.0
+  },
+  {
+    "ticker": "CART",
+    "date": "12/1/25",
+    "shares": 14339.0
+  }
+]
