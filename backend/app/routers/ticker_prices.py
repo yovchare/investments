@@ -12,36 +12,50 @@ router = APIRouter(prefix="/ticker-prices", tags=["ticker_prices"])
 @router.get("/", response_model=List[TickerPrice])
 def get_ticker_prices(db: duckdb.DuckDBPyConnection = Depends(get_db)):
     """Get all ticker prices"""
-    result = db.execute(
+    res = db.execute(
         "SELECT * FROM ticker_prices ORDER BY date DESC"
-    ).fetchall()
-    columns = [desc[0] for desc in db.description]
+    )
+    columns = [desc[0] for desc in res.description]
+    result = res.fetchall()
     return [dict(zip(columns, row)) for row in result]
 
 
 @router.get("/ticker/{ticker_id}", response_model=List[TickerPrice])
-def get_prices_for_ticker(ticker_id: int, db: duckdb.DuckDBPyConnection = Depends(get_db)):
-    """Get all prices for a specific ticker"""
-    result = db.execute(
-        "SELECT * FROM ticker_prices WHERE ticker_id = ? ORDER BY date DESC",
-        [ticker_id]
-    ).fetchall()
-    columns = [desc[0] for desc in db.description]
-    return [dict(zip(columns, row)) for row in result]
+def get_prices_for_ticker(ticker_id: int, limit: int = 500, db: duckdb.DuckDBPyConnection = Depends(get_db)):
+    """Get prices for a specific ticker (limited to most recent N records for performance)"""
+    try:
+        res = db.execute(
+            f"""
+            SELECT * FROM (
+              SELECT * FROM ticker_prices 
+              WHERE ticker_id = ? 
+              ORDER BY date DESC 
+              LIMIT {limit}
+            ) sub
+            ORDER BY date ASC
+            """,
+            [ticker_id]
+        )
+        columns = [desc[0] for desc in res.description]
+        result = res.fetchall()
+        return [dict(zip(columns, row)) for row in result]
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
 
 
 @router.get("/{price_id}", response_model=TickerPrice)
 def get_ticker_price(price_id: int, db: duckdb.DuckDBPyConnection = Depends(get_db)):
     """Get a specific ticker price by ID"""
-    result = db.execute(
+    res = db.execute(
         "SELECT * FROM ticker_prices WHERE price_id = ?",
         [price_id]
-    ).fetchone()
+    )
+    columns = [desc[0] for desc in res.description]
+    result = res.fetchone()
     
     if not result:
         raise HTTPException(status_code=404, detail="Ticker price not found")
     
-    columns = [desc[0] for desc in db.description]
     return dict(zip(columns, result))
 
 
@@ -60,13 +74,14 @@ def create_ticker_price(price: TickerPriceCreate, db: duckdb.DuckDBPyConnection 
         raise HTTPException(status_code=404, detail="Ticker not found")
     
     try:
-        result = db.execute("""
+        res = db.execute("""
             INSERT INTO ticker_prices (price_id, ticker_id, date, price, created_at, updated_at)
             VALUES (nextval('seq_ticker_prices'), ?, ?, ?, ?, ?)
             RETURNING *
-        """, [price.ticker_id, price.date, price.price, now, now]).fetchone()
+        """, [price.ticker_id, price.date, price.price, now, now])
         
-        columns = [desc[0] for desc in db.description]
+        columns = [desc[0] for desc in res.description]
+        result = res.fetchone()
         return dict(zip(columns, result))
     except Exception as e:
         if "UNIQUE" in str(e):
@@ -118,8 +133,9 @@ def update_ticker_price(
     query = f"UPDATE ticker_prices SET {', '.join(update_fields)} WHERE price_id = ? RETURNING *"
     
     try:
-        result = db.execute(query, params).fetchone()
-        columns = [desc[0] for desc in db.description]
+        res = db.execute(query, params)
+        columns = [desc[0] for desc in res.description]
+        result = res.fetchone()
         return dict(zip(columns, result))
     except Exception as e:
         if "UNIQUE" in str(e):
